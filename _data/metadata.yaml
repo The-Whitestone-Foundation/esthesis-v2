@@ -1,0 +1,125 @@
+title: "ESTHESIS"
+description: "Arts | Culture | Ideas"
+url: http://localhost:8080
+language: en
+locale: en_US
+email: carlraschke@gmail.com
+formspree_id: 
+metasocial: 
+  twitter: "https://x.com/user"
+  tweetuser: "@user"
+  facebook: "https://fb.com/user"
+
+favicon: /images/esthesis-fav.png
+image: /images/esthesis.png
+wordmark: /images/esthesis.svg
+open_graph:
+  title: "ESTHESIS"
+  description: "Arts | Culture | Ideas"
+  image: /images/esthesis-og.png
+
+# GitHub / repository metadata (used in humans.txt)
+github:
+  admins:
+    - "Adam DJ Brett"
+
+# Navbar Configuration
+navbar:
+  title: "ESTHESIS"
+  button: "Search"
+  button_url: "/search/"
+  list:
+    - nav: "Home"
+      url: "/"
+    - nav: "About"
+      url: "/about"
+    - nav: "Archives"
+      url: "/archive/"  
+  header_list:
+    - nav: "Archive"
+      url: "/archive/"
+    - nav: "Contact"
+      url: "/contact/"
+    - nav: "Contributors"
+      url: "/contributors/"
+    - nav: "Editors"
+      url: "/editorial-staff/"    
+    - nav: "Submissions"
+      url: "/submissions/"    
+
+# Page Settings
+blog:
+  title: "Journal"
+  description: "Latest insights and articles"
+categories:
+  title: "Categories"
+  description: "Browse by topic"
+tags:
+  title: "Tags"
+  description: "Explore keywords"
+authors:
+  title: "Authors"
+  description: "Our contributors"
+
+# Subscription Box
+subs:
+  title: "Stay Updated"
+  formspree_id: "https://formspree.io/f/xoxoxo"
+  button: "Join Now"
+  show_widget: true
+
+# Footer Configuration
+footer:
+  title: "ESTHESIS"
+  logo: /images/esthesis.svg
+  description: "Arts | Culture | Ideas"
+  text: "Esthesis is partner of the Global Art & Ideas Network (GAIN)"
+  copyrights: "Esthesis is a Whitestone Foundation Publication. All rights reserved."
+  nav_title: "Quick Links"
+  list:
+    - nav: "Archive"
+      url: "/archive/" 
+    - nav: "Categories"
+      url: "/categories/"
+    - nav: "Tags"
+      url: "/tags/"  
+    - nav: "Contact"
+      url: "/contact/"
+    - nav: "Contributors"
+      url: "/contributors/"
+    - nav: "Editors"
+      url: "/editorial-staff/"
+    - nav: "Submissions"
+      url: "/submissions/"
+    - nav: "Feed"
+      url: "/feed/feed.xml"
+    - nav: "Privacy Policy"
+      url: "/privacy"
+  social:
+    - icon: "feed fa-solid fa-rss"
+      title: "RSS"
+      url: "/feed/feed.xml"
+    - icon: "fab fa-facebook"
+      title: "Facebook"
+      url: "https://facebook.com"
+    - icon: "fab fa-twitter"
+      title: "Twitter"
+      url: "https://twitter.com"
+
+# Widgets
+widgets:
+  show_latest: true
+  show_authors: true
+  show_toc: true
+  toc_title: "Table of Contents"
+  widget_1:
+    title: "Popular Posts"
+  widget_2:
+    title: "About Esthesis"
+    image: "/images/esthesis.png"
+    alt: "About Esthesis"
+    text: "Esthesis is an electronic magazine (“e-mag”) that publishes thoughtful, innovative, sometimes provocative, and even quirky articles on the arts and contemporary ideas and culture.  Esthesis draws on a variety of contributors, including artists and academics as well as community, business, and thought leaders.  Esthesis also explores certain unexplored dimensions of consumer trends and the world of fashion and advertising."
+    url: "/about"
+    show: true
+  widget_3:
+    title: "Contributors"

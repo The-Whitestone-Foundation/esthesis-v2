@@ -1,0 +1,47 @@
+<nav class="navbar navbar-expand-lg border-bottom p-3">
+  <div class="container-fluid">
+    <a class="navbar-brand d-flex align-items-center fw-bold" href="{{ metadata.url }}">
+      <img src="{{ metadata.image }}" alt="{{ metadata.navbar.title }}" width="50" height="50" class="me-2">
+      {{ metadata.navbar.title }}
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navContent">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navContent">
+      <ul class="navbar-nav ms-auto align-items-center">
+        {% for item in metadata.navbar.list %}
+        <li class="nav-item ms-lg-3"><a class="nav-link" href="{{ item.url }}">{{ item.nav }}</a></li>
+        {% endfor %}
+        <li class="nav-item ms-lg-3">
+          <a href="{{ metadata.navbar.button_url }}" class="btn btn-outline-secondary rounded-5 mb-2">{{ metadata.navbar.button }}</a>
+        </li>
+        <li class="nav-item dropdown ms-lg-3">
+         <button class="btn btn-theme-toggle rounded-circle d-flex align-items-center justify-content-center shadow border-0" 
+        id="bd-theme" 
+        type="button" 
+        data-bs-toggle="dropdown"
+        style="width: 45px; height: 45px;">
+    <i class="fa-solid fa-circle-half-stroke"></i>
+</button>
+          <ul class="dropdown-menu dropdown-menu-end shadow">
+  <li>
+    <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="light">
+      <i class="fa-solid fa-sun me-2 opacity-50"></i> Light
+    </button>
+  </li>
+  <li>
+    <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark">
+      <i class="fa-solid fa-moon me-2 opacity-50"></i> Dark
+    </button>
+  </li>
+  <li>
+    <button type="button" class="dropdown-item d-flex align-items-center active" data-bs-theme-value="auto">
+      <i class="fa-solid fa-circle-half-stroke me-2 opacity-50"></i> Auto
+    </button>
+  </li>
+</ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>

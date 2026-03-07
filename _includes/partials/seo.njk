@@ -1,0 +1,69 @@
+{% set ogTitle = (metadata.open_graph.title or title or metadata.title) %}
+{% set ogDescription = (metadata.open_graph.description or description or metadata.description) %}
+{% set ogImage = (metadata.open_graph.image or image or metadata.image) %}
+{% set ogUrl = canonical_url or (metadata.url + page.url) %}
+
+<title>{{ title or metadata.title }}</title>
+<meta name="title" content="{{ title or metadata.title }}" />
+<meta name="description" content="{{ description or metadata.description }}" />
+
+{# Open Graph (Facebook) #}
+<meta property="og:title" content="{{ ogTitle }}" />
+<meta property="og:description" content="{{ ogDescription }}" />
+<meta property="og:site_name" content="{{ metadata.title }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ ogUrl }}" />
+<meta property="og:image" content="{{ ogImage }}" />
+<meta property="og:locale" content="{{ metadata.locale }}" />
+
+{# Legacy / nonstandard kept for compatibility #}
+<meta property="facebook:description" content="{{ ogDescription }}" />
+<meta name="facebook:image" content="{{ ogImage }}" />
+
+{# Twitter #}
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{{ ogTitle }}" />
+<meta name="twitter:description" content="{{ ogDescription }}" />
+<meta name="twitter:image" content="{{ ogImage }}" />
+
+{# Dublin Core #}
+<meta content="{{ title or metadata.title }}" property="dc:title" />
+<link href="{{ metadata.favicon }}" rel="icon" type="image/x-icon" />
+<link rel="apple-touch-icon" href="{{ metadata.favicon }}" />
+<meta content="{{ metadata.metasocial.facebook }}" property="facebook:author" />
+<meta
+	content="{{ metadata.metasocial.twitteruser }}"
+	property="twitter:author"
+/>
+<meta property="dc:creator" content="{{ metadata.author.name }}" />
+<meta content="{{ metadata.metasocial.twitter }}" name="twitter:site" />
+<meta content="index, follow" name="robots">
+{% set canonicalHref = canonical_url or (metadata.url + page.url) %}
+<link rel="canonical" href="{{ canonicalHref }}" />
+<link
+	rel="alternate"
+	href="feed/feed.xml"
+	type="application/atom+xml"
+	title="{{ metadata.title }}"
+/>
+<meta name="language" content="{{ metadata.language }}" />
+<meta name="locale" content="{{ metadata.locale }}" />
+<meta name="generator" content="{{ eleventy.generator }}" />
+<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
+{% include "partials/schema.njk" %}
+<style>
+{% include "node_modules/bootstrap/dist/css/bootstrap.min.css" %}
+{% include "css/style.css" %}
+</style>
+<style>{% getBundle "css" %}</style>
+<script>
+  (() => {
+    const theme = localStorage.getItem('theme') || 'auto'
+    const actual = theme === 'auto' ? (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light') : theme
+    document.documentElement.setAttribute('data-bs-theme', actual)
+  })()
+</script>
+<script type="module">
+{% include "node_modules/@zachleat/heading-anchors/heading-anchors.js" %}
+{% include "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js" %}
+</script>

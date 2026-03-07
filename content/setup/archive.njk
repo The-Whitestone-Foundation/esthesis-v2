@@ -1,0 +1,77 @@
+---
+layout: base.njk
+title: "Archive"
+pagination:
+  data: collections.posts
+  size: 12
+  alias: posts
+  reverse: true
+permalink: "/archive/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}"
+---
+{% include "partials/hero.njk" %}
+{% include "partials/nav.njk" %}
+
+<section class="container-fluid">
+    <div class="col-md-10 mx-auto">
+        <div class="row mt-5">
+            <div class="col-md-9 p-3 p-md-5 mt-3 border-end">
+                <h1 class="mb-5 fw-bold text-uppercase" data-pagefind-meta="title" data-pagefind-weight="1">Archive</h1>
+                <div class="row justify-content-center">
+                    {% for post in posts %}
+                    <article class="col-md-4 p-3 mb-4">
+                        <div class="img-post-list">
+                            <a href="{{ post.url }}">
+                                <img class="img-fluid mb-4 post-list-image rounded" width="100%" 
+                                     alt="{{ post.data.title }}"
+                                     src="{{ post.data.image or metadata.image }}"/>
+                            </a>
+                            
+                            <a href="{{ post.url }}"  class="none d">
+                                <p class="fw-semibold mb-1">
+                                    {{ post.data.categories[0] | displayName | default('Uncategorized') }}
+                                </p>
+                                <h4 class="fw-bold">{{ post.data.title }}</h4>
+                                {% if post.data.description %}
+                                    <div class="small mb-3">
+                                        {{ post.data.description | truncate(120) }}
+                                    </div>
+                                {% endif %}
+                            </a>
+                        </div>
+                        {% set authors = (post.data.author or post.data.authors) | parseAuthors(collections.all) %}
+                        {% if authors.length > 0 %}
+                        <div class="mt-auto d-flex align-items-center">
+                            {% set primaryAuthor = authors[0] %}
+                            <img class="rounded-circle me-2" width="30" height="30"
+                                 alt="{{ primaryAuthor.name }}"
+                                 src="{{ primaryAuthor.image or metadata.image }}"/>
+                            <span class="small">
+                                By {% for author in authors %}
+                                    <a href="/contributor/{{ author.slug }}/" class="fw-bold text-decoration-none">{{ author.name }}</a>{% if not loop.last %}; {% endif %}
+                                {% endfor %}
+                            </span>
+                        </div>
+                        {% endif %}
+                    </article>
+                    {% endfor %}
+                    <nav class="col-12 mt-5">
+                        <div class="d-flex justify-content-between">
+                            {% if pagination.href.previous %}
+                                <a href="{{ pagination.href.previous }}" class="btn btn-outline-dark">← Newer</a>
+                            {% else %}
+                                <div></div>
+                            {% endif %}
+                            
+                            {% if pagination.href.next %}
+                                <a href="{{ pagination.href.next }}" class="btn btn-outline-dark">Older →</a>
+                            {% endif %}
+                        </div>
+                    </nav>
+                </div>
+            </div>
+            
+            {% include "partials/sidebar.njk" %}
+        </div>
+    </div>
+</section>
+{% include "partials/subscribe.njk" %}

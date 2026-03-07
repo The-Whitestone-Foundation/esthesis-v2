@@ -1,0 +1,86 @@
+---
+layout: base.njk
+title: Category
+pagination:
+  data: collections.categories
+  size: 1
+  alias: category
+permalink: "/categories/{{ category | slugify }}/"
+---
+
+<section class="container py-5">
+    <div class="row">
+        <div class="col-md-10 mx-auto">
+            <header class="mb-5 border-bottom pb-4">
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb mb-2">
+                        <li class="breadcrumb-item"><a href="/categories/" class="text-decoration-none">Categories</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">{{ category | formatCategoryTag }}</li>
+                    </ol>
+                </nav>
+                <h1 class="display-4 fw-bold">
+                    <span class="text-body-secondary fw-light">Category:</span> {{ category | displayName }}
+                </h1>
+            </header>
+
+            <div class="row" data-pagefind-ignore>
+                {% set catPosts = collections.posts | filterByCategory(category) | reverse %}
+
+                {% for post in catPosts %}
+                    {% set contributorData = collections.contributor | getContributor(post.data.authors) %}
+
+                    <article class="col-md-6 mb-4">
+                        <div class="card h-100 border-0 shadow-sm overflow-hidden">
+                            <a href="{{ post.url }}">
+                                <img src="{{ post.data.image or metadata.image }}" 
+                                     class="card-img-top post-list-image" 
+                                     alt="{{ post.data.title }}"
+                                     style="height: 220px; object-fit: cover;">
+                            </a>
+                            
+                            <div class="card-body p-4">
+                                <h2 class="h4 card-title mb-3">
+                                    <a href="{{ post.url }}" class="text-decoration-none  hover-primary">
+                                        {{ post.data.title }}
+                                    </a>
+                                </h2>
+                                
+                                <p class="card-text text-body-secondary small mb-4">
+                                    {{ post.data.description | truncate(110) }}
+                                </p>
+                                
+                                {% set authors = (post.data.author or post.data.authors) | parseAuthors(collections.all) %}
+                                {% if authors.length > 0 %}
+                                <div class="mt-auto d-flex align-items-center">
+                                    {% set primaryAuthor = authors[0] %}
+                                    <img class="rounded-circle me-2" width="30" height="30"
+                                         alt="{{ primaryAuthor.name }}"
+                                         src="{{ primaryAuthor.image or metadata.image }}"/>
+
+                                    <span class="small">
+                                        By {% for author in authors %}
+                                            <a href="/contributor/{{ author.slug }}/" class="fw-bold text-decoration-none">{{ author.name }}</a>{% if not loop.last %}; {% endif %}
+                                        {% endfor %}
+                                    </span>
+                                </div>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </article>
+                {% else %}
+                    <div class="col-12">
+                        <div class="alert alert-light text-center py-5 border">
+                            <p class="mb-0">Belum ada artikel di kategori ini.</p>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+    .post-list-image { transition: transform 0.3s ease; }
+    .card:hover .post-list-image { transform: scale(1.05); }
+</style>
+{% include "partials/subscribe.njk" %}

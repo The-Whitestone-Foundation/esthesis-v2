@@ -1,0 +1,307 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@font-face {
+  font-family: "Bella Sophie";
+  src:
+    local("BELLA SOPHIE Regular"),
+    local("Bella Sophie Regular"),
+    url("/css/bella/BellasophieRegular-AL2wD.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+h1 {
+  font-family: "Bella Sophie", "BELLA SOPHIE Regular", Lato, sans-serif;
+  font-size: 180px;
+  letter-spacing: 0.025em;
+  text-align: center;
+}
+[data-bs-theme="light"] {
+  --bs-body-bg: #ffffff;
+  --bs-body-color: #212529;
+}
+
+[data-bs-theme="dark"] {
+  --bs-body-bg: #121212;
+  --bs-body-color: #f8f9fa;
+}
+[data-bs-theme="dark"].text-subs { color: #121212; }
+
+.navbar {
+  background-color: var(--bs-body-bg);
+}
+
+.dropdown-item.active {
+  background-color: var(--bs-danger) !important;
+  color: #fff !important;
+}
+h1.text-hero {
+    font-family: "Bella Sophie", "BELLA SOPHIE Regular", sans-serif !important;
+    font-size: 180px !important;
+    line-height: 0.8 !important;
+    letter-spacing: -0.02em;
+    margin: 0 !important;
+    padding: 0 !important;
+    text-align: center;
+    white-space: nowrap !important;
+    display: block !important;
+    width: 100% !important;
+}
+header.container-fluid, 
+.container {
+    overflow: visible !important;
+}
+@media (max-width: 991px) {
+    h1.text-hero {
+        font-size: 15vw !important;
+        white-space: normal !important;
+        line-height: 0.9 !important;
+    }
+}
+.text-list-article p {
+  margin-bottom: 0 !important;
+  line-height: 1.2;
+}
+
+.visually-hidden:not(:focus):not(:active) {
+	clip: rect(0 0 0 0);
+	clip-path: inset(50%);
+	height: 1px;
+	overflow: hidden;
+	position: absolute;
+	white-space: nowrap;
+	width: 1px;
+}
+html, body {
+  font-family: "Lato", sans-serif;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+.text-hero,.text-hero-post  {
+    font-size: clamp(1rem, 10vw, 180px); 
+    max-width: 100%;
+    display: block;
+    overflow-wrap: break-word;
+    line-height: 1.1;
+}
+/*.text-hero-post {font-size: 4vw;} */
+.small {font-size:16px;}
+.smallest {font-size:12px;}
+.text-list-article {
+overflow: hidden; 
+display: -webkit-box;
+-webkit-box-orient: vertical;
+-webkit-line-clamp: 3; 
+max-width: 400px;
+}
+.img-profile { width: 30px; height:30px; object-fit:cover; }
+.newsletter {
+	padding-top: 120px;
+	padding-bottom: 120px;
+}
+.text-footer-title {
+    font-family: "Bella Sophie", "BELLA SOPHIE Regular", sans-serif !important;
+    font-size: 3vw !important;
+    line-height: 1.2;
+}
+
+@media (max-width: 768px) {
+    .text-footer-title {
+        font-size: 8vw !important;
+    }
+}
+.footer-list {
+  list-style-type: none;
+}
+a,.red {color: #f2001b;}
+.nav-link {color:inherit;}
+a:hover {color:#3D9970;}
+.none {text-decoration: none;}
+.bg-red,.btn-red {background-color: #f2001b; color:#fff;}
+.btn-red:hover {background-color: #3D9970; color:#fff;}
+.btn-reds:hover {background-color: #3D9970; color:#fff;}
+.nav-link:hover {
+  color: #3D9970 !important; 
+}
+.img-post-list {
+	filter: grayscale(100%);
+	transition: filter 0.3s ease-in-out;
+}
+.img-post-list:hover {
+	filter: grayscale(0%);
+}
+.dropdown-item {
+  color: #f2001b;
+}
+img,iframe {max-width:100%;}
+.dropdown-item:hover, .dropdown-item:focus {
+  background-color: #F8D7DA;
+  color: #f2001b;
+}
+.d {color: inherit;}
+.page-link {
+  color: #f2001b;
+  border-color: #f2001b;
+}
+
+.page-link:hover {
+  color: #f2001b;
+  background-color: #F8D7DA;
+  border-color: #f2001b;
+}
+.hover-effect-container .col-md-4 {
+  position: relative !important; 
+  overflow: hidden; 
+}
+.hover-effect-container img {
+  display: block;
+  transition: all 0.4s ease-in-out; 
+}
+.hover-effect-container .col-md-4::after {
+  content: "→"; 
+  position: absolute;
+  top: 2px;    
+  right: 15px;  
+  color: #FFFFFF;
+  background-color:inherit; 
+  padding: 5px 8px;
+  border-radius: 3px;
+  font-size: 18px;
+  font-weight: bold;
+  transition: all 0.4s ease-in-out;
+  opacity: 0;
+  transform: rotate(20deg) translateY(0px);   
+  z-index: 2;
+}
+.hover-effect-container:hover img {
+  filter: brightness(0.7);
+  transform: scale(1.03);
+}
+.hover-effect-container:hover .col-md-4::after {
+  opacity: 1; 
+  transform: rotate(-45deg) translateY(0);
+}
+.pinki {
+	background-color: #F8D7DA;
+}
+
+.row-full-height {
+    min-height: 100vh; 
+}
+.col-centered {
+    min-height: 100vh; 
+    background-size: cover;
+    background-position: center;
+}
+.col-scrollable {
+    max-height: 100vh; 
+    overflow-y: auto; 
+}
+.col-scrollable::-webkit-scrollbar {
+    display: none;
+}
+footer a {color: inhehrit;}
+
+.icon-svg {
+    width: 1.25em;
+    height: 1.25em;
+    vertical-align: -0.125em;
+    fill: currentColor;
+}
+.fa-lg.icon-svg {
+    width: 1.33333333em;
+    height: 1.33333333em;
+}
+.fa-2x.icon-svg {
+    width: 2em;
+    height: 2em;
+}
+.post-list-text  {
+  display: -webkit-box;
+  -webkit-line-clamp: 3; 
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.mto {margin-top: -18px;}
+.author-list-image {
+  width:100%;
+  height: 300px;
+  object-fit: cover;
+}
+@media (min-width: 601px) {
+.post-list-image {
+  width:100%;
+  height: 450px;
+  object-fit:cover;
+  }
+}
+
+
+  @media (max-width: 600px) {
+.post-list-image {
+  width:100%;
+  height: 300px;
+  object-fit:cover;
+  }
+}
+
+.post-article img {
+    display: block; 
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+}
+
+.post-article p img {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+[data-bs-theme="dark"] .pinki {background-color: #B00000 !important; }
+[data-bs-theme="dark"] a,.red {color: #e73f3f;}
+.logo {width:80px;height:80px;}
+
+
+[data-bs-theme="light"] .btn-theme-toggle {
+    background-color: #d51a1a !important;
+    color: #fff !important; 
+    box-shadow: 0 4px 10px rgba(255, 0, 0, 0.3) !important;
+}
+
+
+[data-bs-theme="dark"] .btn-theme-toggle {
+    background-color: #b00000 !important; 
+    color: #ffffff !important; 
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5) !important;
+}
+
+.btn-theme-toggle:hover {
+    transform: scale(1.1);
+    filter: brightness(1.2);
+}
+
+.btn-theme-toggle i {
+    font-size: 1.2rem;
+    color: inherit !important;
+}
+h1 svg  {
+    width: 100% !important;
+    height: auto !important;
+    display: block;
+    margin: 0 auto;   
+    aspect-ratio: auto; 
+}
+
+.text-hero svg,.text-footer-title svg {
+    max-width: 100%;
+    height: auto;
+}

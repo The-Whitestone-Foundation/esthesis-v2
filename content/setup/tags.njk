@@ -1,0 +1,27 @@
+---
+layout: base.njk
+title: Tags
+description: "Browse tags across Esthesis"
+permalink: /tags/
+---
+
+<section class="container py-5">
+  <header class="mb-5 border-bottom pb-4">
+    <h1 class="display-4 fw-bold text-dark" data-pagefind-meta="title" data-pagefind-weight="1">Tags</h1>
+    <p class="lead text-muted">Browse all posts organized by tag.</p>
+  </header>
+
+  {% set allTagsSorted = (collections.tags or []) | sort %}
+
+  <ul class="list-unstyled row" data-pagefind-ignore>
+    {% for tag in allTagsSorted %}
+      <li class="col-12 col-md-6 col-lg-4 mb-2">
+        <a class="badge text-bg-light border text-decoration-none" href="/tags/{{ tag | slugify }}/">
+          {{ tag | displayName }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+
+{% include "partials/subscribe.njk" %}
