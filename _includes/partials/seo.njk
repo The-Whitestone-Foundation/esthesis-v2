@@ -1,7 +1,8 @@
 {% set ogTitle = (metadata.open_graph.title or title or metadata.title) %}
 {% set ogDescription = (metadata.open_graph.description or description or metadata.description) %}
 {% set ogImage = (metadata.open_graph.image or image or metadata.image) %}
-{% set ogUrl = canonical_url or (metadata.url + page.url) %}
+{% set siteUrl = metadata.url | baseUrl %}
+{% set ogUrl = canonical_url or (page.url | absUrl(siteUrl)) %}
 
 <title>{{ title or metadata.title }}</title>
 <meta name="title" content="{{ title or metadata.title }}" />
@@ -38,18 +39,18 @@
 <meta property="dc:creator" content="{{ metadata.author.name }}" />
 <meta content="{{ metadata.metasocial.twitter }}" name="twitter:site" />
 <meta content="index, follow" name="robots">
-{% set canonicalHref = canonical_url or (metadata.url + page.url) %}
+{% set canonicalHref = canonical_url or (page.url | absUrl(siteUrl)) %}
 <link rel="canonical" href="{{ canonicalHref }}" />
 <link
 	rel="alternate"
-	href="feed/feed.xml"
+	href="{{ '/feed/feed.xml' | absUrl(siteUrl) }}"
 	type="application/atom+xml"
 	title="{{ metadata.title }}"
 />
 <meta name="language" content="{{ metadata.language }}" />
 <meta name="locale" content="{{ metadata.locale }}" />
 <meta name="generator" content="{{ eleventy.generator }}" />
-<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
+<link rel="alternate" href="{{ '/feed/feed.xml' | absUrl(siteUrl) }}" type="application/atom+xml" title="{{ metadata.title }}">
 {% include "partials/schema.njk" %}
 <style>
 {% include "node_modules/bootstrap/dist/css/bootstrap.min.css" %}

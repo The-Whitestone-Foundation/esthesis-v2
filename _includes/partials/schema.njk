@@ -1,5 +1,9 @@
 {% set contributorData = collections.contributor | getContributor(authors) %}
-{% set canonicalUrl = canonical_url or (metadata.url + page.url) %}
+{% set siteUrl = metadata.url | baseUrl %}
+{% set canonicalUrl = canonical_url or (page.url | absUrl(siteUrl)) %}
+{% set orgUrl = '/' | absUrl(siteUrl) %}
+{% set imageUrl = (image or metadata.image) | absUrl(siteUrl) %}
+{% set contributorUrl = (contributorData.url or '') | absUrl(siteUrl) %}
 
 <script type="application/ld+json" data-no-bundle>
 {
@@ -7,20 +11,20 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://thewhitestonefoundation.org/#organization",
-      "name": "The Whitestone Foundation",
-      "url": "https://thewhitestonefoundation.org",
+      "@id": "{{ orgUrl }}#organization",
+      "name": "{{ metadata.title }}",
+      "url": "{{ orgUrl }}",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://thewhitestonefoundation.org/favicon.ico"
+        "url": "{{ metadata.favicon | absUrl(siteUrl) }}"
       }
     },
     {
       "@type": "WebSite",
-      "@id": "{{ metadata.url }}/#website",
-      "url": "{{ metadata.url }}",
+      "@id": "{{ orgUrl }}#website",
+      "url": "{{ orgUrl }}",
       "name": "{{ metadata.title }}",
-      "publisher": { "@id": "https://thewhitestonefoundation.org/#organization" }
+      "publisher": { "@id": "{{ orgUrl }}#organization" }
     },
     {
       "@type": "BreadcrumbList",
@@ -30,7 +34,7 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "{{ metadata.url }}"
+          "item": "{{ orgUrl }}"
         },
         {
           "@type": "ListItem",
@@ -49,14 +53,14 @@
       "datePublished": "{% if date.toISOString %}{{ date.toISOString() }}{% else %}{{ date }}{% endif %}",
       "dateModified": "{% if date.toISOString %}{{ date.toISOString() }}{% else %}{{ date }}{% endif %}",
       "mainEntityOfPage": { "@id": "{{ canonicalUrl }}" },
-      "isPartOf": { "@id": "{{ metadata.url }}/#website" },
-      "image": "{{ metadata.url }}{{ image or metadata.image }}",
+      "isPartOf": { "@id": "{{ orgUrl }}#website" },
+      "image": "{{ imageUrl }}",
       "author": {
         "@type": "Person",
         "name": "{{ contributorData.data.name or authors or metadata.author.name or 'Whitestone Staff' }}",
-        "url": "{{ metadata.url }}{{ contributorData.url or '' }}"
+        "url": "{{ contributorUrl }}"
       },
-      "publisher": { "@id": "https://thewhitestonefoundation.org/#organization" }
+      "publisher": { "@id": "{{ orgUrl }}#organization" }
     }
     {% endif %}
   ]

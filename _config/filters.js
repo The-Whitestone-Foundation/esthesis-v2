@@ -1,5 +1,10 @@
 import { DateTime } from "luxon";
 import slugify from "slugify";
+import yaml from "js-yaml";
+import fs from "node:fs";
+
+const metadata = yaml.load(fs.readFileSync("./_data/metadata.yaml", "utf8")) || {};
+const siteBaseUrl = String(metadata.url || "").trim().replace(/\/+$/, "");
 
 const POSTS_MEMO = new WeakMap();
 
@@ -109,8 +114,9 @@ export default function(eleventyConfig) {
     });
 
     eleventyConfig.addFilter("baseUrl", (url) => {
-        if (!url || url === "/") return "http://localhost:8080";
-        return url.endsWith("/") ? url.slice(0, -1) : url;
+        const candidate = String(url || "").trim();
+        if (!candidate || candidate === "/") return siteBaseUrl;
+        return candidate.endsWith("/") ? candidate.slice(0, -1) : candidate;
     });
 
     eleventyConfig.addFilter("absUrl", (path, base) => {

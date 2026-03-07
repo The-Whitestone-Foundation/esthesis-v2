@@ -1,5 +1,6 @@
 <script type="application/ld+json">
 {% set contributorData = collections.contributor | getContributor(authors) %}
+{% set siteUrl = metadata.url | baseUrl %}
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
@@ -10,17 +11,17 @@
   "author": {
     "@type": "Person",
     "name": "{{ contributorData.data.name or authors or metadata.title }}",
-    "url": "{{ metadata.url }}{{ contributorData.url or '' }}"
+    "url": "{{ (contributorData.url or '') | absUrl(siteUrl) }}"
   },
-  "image": "{{ metadata.url }}{{ image or metadata.image }}",
+  "image": "{{ (image or metadata.image) | absUrl(siteUrl) }}",
   "publisher": {
     "@type": "Organization",
     "name": "{{ metadata.title }}",
-    "url": "{{ metadata.url }}"
+    "url": "{{ '/' | absUrl(siteUrl) }}"
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "{{ canonical_url or (metadata.url + page.url) }}"
+    "@id": "{{ canonical_url or (page.url | absUrl(siteUrl)) }}"
   }
 }
 </script>

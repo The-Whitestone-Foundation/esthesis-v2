@@ -1,19 +1,20 @@
 <script type="application/ld+json">
+{% set siteUrl = metadata.url | baseUrl %}
 {
   "@context": "https://schema.org",
   "@type": "Blog",
   "name": "{{ metadata.title }}",
   "description": "{{ metadata.description }}",
-  "url": "{{ metadata.url }}",
+  "url": "{{ '/' | absUrl(siteUrl) }}",
   "publisher": {
     "@type": "Organization",
     "name": "{{ metadata.title }}",
-    "url": "{{ metadata.url }}"
+    "url": "{{ '/' | absUrl(siteUrl) }}"
   },
   "mainEntity": {
     "@type": "WebSite",
     "name": "{{ metadata.title }}",
-    "url": "{{ metadata.url }}"
+    "url": "{{ '/' | absUrl(siteUrl) }}"
   }
 }
 </script>
