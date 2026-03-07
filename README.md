@@ -1,15 +1,10 @@
-[![Deploy Eleventy to XMIT](https://github.com/adamdjbrett/esthesis.org/actions/workflows/deploy-xmit.yml/badge.svg)](https://github.com/adamdjbrett/esthesis.org/actions/workflows/deploy-xmit.yml)
-# esthesis.org
-[demo](https://esthesis.xmit.dev)
-
-[![Deploy Eleventy to XMIT](https://github.com/adamdjbrett/esthesis.org/actions/workflows/deploy-xmit.yml/badge.svg)](https://github.com/adamdjbrett/esthesis.org/actions/workflows/deploy-xmit.yml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3336cd95-9dec-4824-9061-b0b0ed9c5e8d/deploy-status)](https://app.netlify.com/projects/esthesis/deploys)
 # esthesis.org
 
-[demo](https://esthesis.xmit.dev)
 
-A New version of Esthesis Website build with 11ty JAMSTACK feat Sveltia CMS
+A New version of Esthesis Website build with 11ty JAMSTACK feat Decap CMS
 
-A Project develop by [Adam DJ Brett](https://adamdjbrett.com)
+A Project developed by [Adam DJ Brett](https://adamdjbrett.com)
 
 Need help or have project ?? Contact Me
 + https://adamdjbrett.com
