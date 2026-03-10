@@ -9,7 +9,12 @@
 <body>
 <a href="#main" id="skip-link" class="visually-hidden">Skip to main content</a>
 {% include "partials/navbar.njk" %}
+<main id="main" class="h-entry">
 {{content|safe}}
+</main>
+<p class="h-card visually-hidden mb-0">
+  <a class="p-name u-url" href="https://thewhitestonefoundation.org/">The Whitestone Foundation</a>
+</p>
 {% include "partials/footer.njk" %}
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <script>

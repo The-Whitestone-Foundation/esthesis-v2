@@ -41,12 +41,16 @@
 <meta content="index, follow" name="robots">
 {% set canonicalHref = canonical_url or (page.url | absUrl(siteUrl)) %}
 <link rel="canonical" href="{{ canonicalHref }}" />
+<link rel="sitemap" href="{{ '/sitemap.xml' | absUrl(siteUrl) }}" type="application/xml" title="{{ metadata.title }} Sitemap" />
 <link
 	rel="alternate"
 	href="{{ '/feed/feed.xml' | absUrl(siteUrl) }}"
 	type="application/atom+xml"
 	title="{{ metadata.title }}"
 />
+<link rel="alternate" href="{{ '/feed/feed.rss' | absUrl(siteUrl) }}" type="application/rss+xml" title="{{ metadata.title }}" />
+<link rel="alternate" href="{{ '/feed/feed.json' | absUrl(siteUrl) }}" type="application/feed+json" title="{{ metadata.title }}" />
+<link rel="alternate" href="{{ '/feed/twtxt.txt' | absUrl(siteUrl) }}" type="text/plain" title="{{ metadata.title }}" />
 <meta name="language" content="{{ metadata.language }}" />
 <meta name="locale" content="{{ metadata.locale }}" />
 <meta name="generator" content="{{ eleventy.generator }}" />
