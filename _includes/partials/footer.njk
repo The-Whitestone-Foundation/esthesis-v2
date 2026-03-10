@@ -36,10 +36,19 @@
     </div>
 
     <div class="row p-3 mt-3 border-bottom">
-        <p class="col-md-8 small">
-            <a class="none" href="{{ metadata.url }}">&copy; {{ "" | year }} {{ metadata.footer.copyrights }}</a>
+        <p class="col-md-12 small text-center">
+            &copy; {{ metadata.footer.year_start }}-{{ "" | year }} {{ metadata.footer.legal_text }}
         </p>
-        <div class="col-md-4 text-end">
+        <p class="col-md-12 small fw-bold text-uppercase text-center" style="letter-spacing: 2px;">
+            <a class="none" href="{{ metadata.footer.url }}">{{ metadata.footer.info }}</a>
+            <br/>
+            <span style="font-size: 0.8rem;">
+                {% for publication in metadata.footer.publications %}
+                <a class="none" href="{{ publication.url }}" target="_blank" rel="noopener noreferrer">{{ publication.title }}</a>{% if not loop.last %} | {% endif %}
+                {% endfor %}
+            </span>
+        </p>
+        <div class="col-md-12 text-center">
             {% if metadata.footer.social %}
             {% for item in metadata.footer.social %}
             <a href="{{ item.url }}" title="{{ item.title }}" 
@@ -53,8 +62,8 @@
     
     <div class="col-md-12 mt-3 text-center">
         <p class="small">
-            Built with <a class="none" href="https://www.11ty.dev/">{{ eleventy.generator }}</a> | 
-            Maintained by <a class="none" href="https://adamdjbrett.com">Adam DJ Brett</a>
+            {{ metadata.footer.built_with.label }} <a class="none" href="{{ metadata.footer.built_with.url }}">{{ eleventy.generator }}</a> | 
+            managed by <a class="none" href="{{ metadata.footer.manager.url }}">{{ metadata.footer.manager.name }}</a>
         </p>
     </div>
 </footer>

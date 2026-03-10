@@ -70,10 +70,29 @@ subs:
 
 # Footer Configuration
 footer:
+  year_start: 2018
   title: "ESTHESIS"
   logo: /images/esthesis.svg
   description: "Arts | Culture | Ideas"
   text: "Esthesis is partner of the Global Art & Ideas Network (GAIN)"
+  legal_text: "Copyright The Whitestone Foundation dba Whitestone Publications. All Rights Reserved."
+  info: "A WHITESTONE FOUNDATION PUBLICATION"
+  url: "https://thewhitestonefoundation.org/"
+  publications:
+    - title: "JCRT"
+      url: "https://jcrt.org"
+    - title: "The New Polis Journal"
+      url: "https://journal.thenewpolis.com"
+    - title: "The New Polis"
+      url: "https://thenewpolis.com"
+    - title: "Esthesis"
+      url: "https://esthesis.org"
+  manager:
+    name: "Adam DJ Brett"
+    url: "https://adamdjbrett.com"
+  built_with:
+    label: "built with"
+    url: "https://11ty.dev"
   copyrights: "Esthesis is a Whitestone Foundation Publication. All rights reserved."
   nav_title: "Quick Links"
   list:
