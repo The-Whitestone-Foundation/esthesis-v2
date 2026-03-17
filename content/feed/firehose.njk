@@ -5,6 +5,7 @@ layout: false
 ---
 {% set siteUrl = metadata.url | baseUrl %}
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/feed/pretty-atom-feed.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>{{ metadata.title }} Firehose</title>
   <subtitle>{{ metadata.description }}</subtitle>
@@ -13,7 +14,7 @@ layout: false
   <updated>{{ page.date.toISOString() if page.date else "" }}</updated>
   <id>{{ '/' | absUrl(siteUrl) }}</id>
   <author>
-    <name>{{ metadata.author.name }}</name>
+    <name>{{ metadata.author.name or metadata.author or metadata.title }}</name>
   </author>
 
   {%- for post in collections.all | reverse %}
@@ -23,7 +24,6 @@ layout: false
       <link href="{{ post.url | absUrl(siteUrl) }}"/>
       <updated>{{ post.date.toISOString() if post.date else page.date.toISOString() }}</updated>
       <id>{{ post.url | absUrl(siteUrl) }}</id>
-      {# Gunakan truncate dulu untuk tes, kalau berhasil baru kita kembalikan ke full content #}
       <content type="html"><![CDATA[
         {{ post.templateContent | safe }}
       ]]></content>

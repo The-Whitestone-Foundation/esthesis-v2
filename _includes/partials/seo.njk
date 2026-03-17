@@ -36,10 +36,42 @@
 	content="{{ metadata.metasocial.twitteruser }}"
 	property="twitter:author"
 />
-<meta property="dc:creator" content="{{ metadata.author.name }}" />
+<meta property="dc:creator" content="{{ metadata.author.name or metadata.author or metadata.title }}" />
+{% set dcPublisher = metadata.author.name or metadata.author or metadata.title %}
+{% set dcDescription = description or metadata.description %}
+{% set pageTags = tags or [] %}
+{% set pageDate = date or page.date %}
+{% set isAcademic = page.url and "/archive/" in page.url and page.url != "/archive/" %}
+{% set canonicalHref = canonical_url or (page.url | absUrl(siteUrl)) %}
+{# Dublin Core base #}
+<meta property="dc:publisher" content="{{ dcPublisher }}" />
+<meta property="dc:language" content="en" />
+<meta property="dc:format" content="text/html" />
+<meta property="dc:rights" content="Copyright {{ dcPublisher }}. {{ metadata.url }}/copyright/" />
+<meta property="dc:source" content="Esthesis" />
+{# Dublin Core per-page #}
+{% if pageDate %}<meta property="dc:date" content="{{ pageDate | isoDate }}" />{% endif %}
+<meta property="dc:type" content="{{ 'article' if (isAcademic or pageTags.length) else 'text' }}" />
+<meta property="dc:identifier" content="{{ canonicalHref }}" />
+{% if dcDescription %}<meta property="dc:description" content="{{ dcDescription }}" />{% endif %}
+{% for tag in pageTags %}
+  {% if tag != "posts" and tag != "pages" %}
+<meta property="dc:subject" content="{{ tag }}" />
+  {% endif %}
+{% endfor %}
+{% if metadata.metasocial.mastodon %}
+<meta name="fediverse:creator" content="{{ metadata.metasocial.mastodon }}" />
+{% endif %}
+{% if isAcademic and (volume or issue) %}
+<meta name="citation_title" content="{{ title or metadata.title }}" />
+<meta name="citation_journal_title" content="Esthesis" />
+{% if pageDate %}<meta name="citation_publication_date" content="{{ pageDate | isoDate }}" />{% endif %}
+<meta name="citation_fulltext_html_url" content="{{ canonicalHref }}" />
+{% if volume %}<meta name="citation_volume" content="{{ volume }}" />{% endif %}
+{% if issue %}<meta name="citation_issue" content="{{ issue }}" />{% endif %}
+{% endif %}
 <meta content="{{ metadata.metasocial.twitter }}" name="twitter:site" />
 <meta content="index, follow" name="robots">
-{% set canonicalHref = canonical_url or (page.url | absUrl(siteUrl)) %}
 <link rel="canonical" href="{{ canonicalHref }}" />
 <link rel="sitemap" href="{{ '/sitemap.xml' | absUrl(siteUrl) }}" type="application/xml" title="{{ metadata.title }} Sitemap" />
 <link
@@ -51,6 +83,7 @@
 <link rel="alternate" href="{{ '/feed/feed.rss' | absUrl(siteUrl) }}" type="application/rss+xml" title="{{ metadata.title }}" />
 <link rel="alternate" href="{{ '/feed/feed.json' | absUrl(siteUrl) }}" type="application/feed+json" title="{{ metadata.title }}" />
 <link rel="alternate" href="{{ '/feed/twtxt.txt' | absUrl(siteUrl) }}" type="text/plain" title="{{ metadata.title }}" />
+<link rel="alternate" href="{{ '/feed/firehose.xml' | absUrl(siteUrl) }}" type="application/atom+xml" title="{{ metadata.title }} Firehose" />
 <meta name="language" content="{{ metadata.language }}" />
 <meta name="locale" content="{{ metadata.locale }}" />
 <meta name="generator" content="{{ eleventy.generator }}" />

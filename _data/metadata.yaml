@@ -7,8 +7,10 @@ email: carlraschke@gmail.com
 formspree_id: 
 metasocial: 
   twitter: "https://x.com/user"
+  twitteruser: "@user"
   tweetuser: "@user"
   facebook: "https://fb.com/user"
+  mastodon: "@esthesis@mastodon.social"
 
 favicon: /images/esthesis-fav.png
 image: /images/esthesis.png
