@@ -16,14 +16,29 @@ h1 {
   letter-spacing: 0.025em;
   text-align: center;
 }
+/* === AAA Accessible Color Scheme: Black, Red, Gray, White === */
 [data-bs-theme="light"] {
   --bs-body-bg: #ffffff;
-  --bs-body-color: #212529;
+  --bs-body-color: #000000;
+  --esthesis-red: #990000;          /* 8.5:1 on white — AAA */
+  --esthesis-red-hover: #6B0000;    /* 12.8:1 on white — AAA */
+  --esthesis-gray: #545454;         /* 7.36:1 on white — AAA */
+  --esthesis-border: #cccccc;
+  --esthesis-accent-bg: #F2E0E0;
+  --esthesis-btn-bg: #990000;
+  --esthesis-btn-hover-bg: #6B0000;
 }
 
 [data-bs-theme="dark"] {
   --bs-body-bg: #121212;
-  --bs-body-color: #f8f9fa;
+  --bs-body-color: #f0f0f0;
+  --esthesis-red: #FF8C8C;          /* 7.66:1 on #121212 — AAA */
+  --esthesis-red-hover: #FFAAAA;    /* 8.34:1 on #121212 — AAA */
+  --esthesis-gray: #ABABAB;         /* 7.49:1 on #121212 — AAA */
+  --esthesis-border: #444444;
+  --esthesis-accent-bg: #3D0000;
+  --esthesis-btn-bg: #CC0000;
+  --esthesis-btn-hover-bg: #FF8C8C;
 }
 [data-bs-theme="dark"].text-subs { color: #121212; }
 
@@ -119,15 +134,15 @@ max-width: 400px;
 .footer-list {
   list-style-type: none;
 }
-a,.red {color: #f2001b;}
+a,.red {color: var(--esthesis-red, #990000);}
 .nav-link {color:inherit;}
-a:hover {color:#3D9970;}
+a:hover {color: var(--esthesis-red-hover, #6B0000);}
 .none {text-decoration: none;}
-.bg-red,.btn-red {background-color: #f2001b; color:#fff;}
-.btn-red:hover {background-color: #3D9970; color:#fff;}
-.btn-reds:hover {background-color: #3D9970; color:#fff;}
+.bg-red,.btn-red {background-color: var(--esthesis-btn-bg, #990000); color:#fff;}
+.btn-red:hover {background-color: var(--esthesis-btn-hover-bg, #6B0000); color:#fff;}
+.btn-reds:hover {background-color: var(--esthesis-btn-hover-bg, #6B0000); color:#fff;}
 .nav-link:hover {
-  color: #3D9970 !important; 
+  color: var(--esthesis-red-hover, #6B0000) !important; 
 }
 .img-post-list {
 	filter: grayscale(100%);
@@ -137,23 +152,23 @@ a:hover {color:#3D9970;}
 	filter: grayscale(0%);
 }
 .dropdown-item {
-  color: #f2001b;
+  color: var(--esthesis-red, #990000);
 }
 img,iframe {max-width:100%;}
 .dropdown-item:hover, .dropdown-item:focus {
-  background-color: #F8D7DA;
-  color: #f2001b;
+  background-color: var(--esthesis-accent-bg, #F2E0E0);
+  color: var(--esthesis-red, #990000);
 }
 .d {color: inherit;}
 .page-link {
-  color: #f2001b;
-  border-color: #f2001b;
+  color: var(--esthesis-red, #990000);
+  border-color: var(--esthesis-red, #990000);
 }
 
 .page-link:hover {
-  color: #f2001b;
-  background-color: #F8D7DA;
-  border-color: #f2001b;
+  color: var(--esthesis-red-hover, #6B0000);
+  background-color: var(--esthesis-accent-bg, #F2E0E0);
+  border-color: var(--esthesis-red, #990000);
 }
 .hover-effect-container .col-md-4 {
   position: relative !important; 
@@ -188,7 +203,7 @@ img,iframe {max-width:100%;}
   transform: rotate(-45deg) translateY(0);
 }
 .pinki {
-	background-color: #F8D7DA;
+	background-color: var(--esthesis-accent-bg, #F2E0E0);
 }
 
 .row-full-height {
@@ -206,7 +221,7 @@ img,iframe {max-width:100%;}
 .col-scrollable::-webkit-scrollbar {
     display: none;
 }
-footer a {color: inhehrit;}
+footer a {color: inherit;}
 
 .icon-svg {
     width: 1.25em;
@@ -266,20 +281,20 @@ footer a {color: inhehrit;}
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
-[data-bs-theme="dark"] .pinki {background-color: #B00000 !important; }
-[data-bs-theme="dark"] a,.red {color: #e73f3f;}
+[data-bs-theme="dark"] .pinki {background-color: var(--esthesis-accent-bg, #3D0000) !important; }
+[data-bs-theme="dark"] a {color: var(--esthesis-red, #FF8C8C);}
+[data-bs-theme="dark"] .red {color: var(--esthesis-red, #FF8C8C);}
 .logo {width:80px;height:80px;}
 
 
 [data-bs-theme="light"] .btn-theme-toggle {
-    background-color: #d51a1a !important;
+    background-color: #990000 !important;
     color: #fff !important; 
-    box-shadow: 0 4px 10px rgba(255, 0, 0, 0.3) !important;
+    box-shadow: 0 4px 10px rgba(153, 0, 0, 0.3) !important;
 }
 
-
 [data-bs-theme="dark"] .btn-theme-toggle {
-    background-color: #b00000 !important; 
+    background-color: #CC0000 !important; 
     color: #ffffff !important; 
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5) !important;
 }

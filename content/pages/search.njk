@@ -92,36 +92,36 @@ permalink: /search/
 
 <style>
 /* Customize Pagefind UI styling to match theme */
-:root {
-    --pf-background-color: #ffffff;
-    --pf-border-color: #e0e0e0;
-    --pf-text-color: #333333;
-    --pf-link-color: #000000;
-}
-
 .pagefind-ui__search-input {
-    border: 2px solid #000 !important;
+    border: 2px solid var(--esthesis-gray, #545454) !important;
     border-radius: 0.5rem;
     padding: 0.75rem 1rem;
     font-size: 1rem;
+    background-color: var(--bs-body-bg, #fff);
+    color: var(--bs-body-color, #000);
 }
 
 .pagefind-ui__search-input:focus {
     outline: none;
-    box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 0 3px rgba(153, 0, 0, 0.15);
+    border-color: var(--esthesis-red, #990000) !important;
+}
+
+.pagefind-ui__search-input::placeholder {
+    color: var(--esthesis-gray, #545454);
 }
 
 .pagefind-ui__result-link {
-    color: #000;
+    color: var(--esthesis-red, #990000);
     font-weight: 500;
 }
 
 .pagefind-ui__result-link:hover {
-    color: #666;
+    color: var(--esthesis-red-hover, #6B0000);
 }
 
 .pagefind-ui__button {
-    background-color: #000;
+    background-color: var(--esthesis-btn-bg, #990000);
     color: #fff;
     border: none;
     border-radius: 0.5rem;
@@ -129,6 +129,10 @@ permalink: /search/
 }
 
 .pagefind-ui__button:hover {
-    background-color: #333;
+    background-color: var(--esthesis-btn-hover-bg, #6B0000);
+}
+
+#search-results article {
+    border-color: var(--esthesis-border, #cccccc) !important;
 }
 </style>
