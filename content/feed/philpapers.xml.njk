@@ -1,0 +1,37 @@
+---
+permalink: /feed/philpapers.xml
+eleventyExcludeFromCollections: true
+layout: false
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns="http://purl.org/rss/1.0/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
+  <channel rdf:about="{{ '/feed/philpapers.xml' | absUrl(metadata.url) }}">
+    <title>{{ metadata.title | escape }}</title>
+    <link>{{ '/' | absUrl(metadata.url) }}</link>
+    <description>{{ metadata.description | escape }}</description>
+    <prism:publicationName>{{ metadata.title | escape }}</prism:publicationName>
+    <items>
+      <rdf:Seq>
+        {%- for post in collections.posts or [] %}
+        <rdf:li rdf:resource="{{ post.url | absUrl(metadata.url) }}"/>
+        {%- endfor %}
+      </rdf:Seq>
+    </items>
+  </channel>
+  {%- for post in collections.posts or [] %}
+  <item rdf:about="{{ post.url | absUrl(metadata.url) }}">
+    <title>{{ post.data.title | escape }}</title>
+    <link>{{ post.url | absUrl(metadata.url) }}</link>
+    <dc:creator>{{ (post.data.author or post.data.authors or metadata.title) | escape }}</dc:creator>
+    <dc:date>{{ post.date | isoDate }}</dc:date>
+    {% if post.data.description %}<description>{{ post.data.description | escape }}</description>{% endif %}
+    <prism:publicationName>{{ metadata.title | escape }}</prism:publicationName>
+    {% if post.data.volume %}<prism:volume>{{ post.data.volume | escape }}</prism:volume>{% endif %}
+    {% if post.data.issue %}<prism:number>{{ post.data.issue | escape }}</prism:number>{% endif %}
+  </item>
+  {%- endfor %}
+</rdf:RDF>
