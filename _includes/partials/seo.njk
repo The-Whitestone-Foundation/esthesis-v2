@@ -83,9 +83,16 @@
 {% if volume %}<meta name="citation_volume" content="{{ volume }}" />{% endif %}
 {% if issue %}<meta name="citation_issue" content="{{ issue }}" />{% endif %}
 {% elif pageDate and page.url and page.url != "/" %}
+{% if page.inputPath and "/posts/" in page.inputPath %}
+<link rel="cite-as" href="{{ canonicalHref }}" />
+<link rel="type" href="https://schema.org/BlogPosting" />
+<link rel="author" href="{{ metadata.url }}/author/" />
+<link rel="describedby" type="application/ld+json" profile="https://schema.org/" href="{{ page.url }}metadata.json" />
+{% endif %}
 <meta property="zotero:itemType" content="blogPost" />
 <meta name="prism.genre" content="blogentry" />
 <meta name="prism.publicationName" content="{{ metadata.title }}" />
+<meta name="citation_title" content="{{ title or metadata.title }}" />
 <meta name="citation_author" content="{{ author or authors or metadata.title }}" />
 <meta name="citation_publication_date" content="{{ pageDate | isoDate }}" />
 <meta name="citation_public_url" content="{{ canonicalHref }}" />
