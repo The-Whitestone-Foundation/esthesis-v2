@@ -9,7 +9,7 @@
     "convert": "node scripts/convert-wp-archive.js"
   },
   "dependencies": {
-    "@11ty/eleventy": "3.1.6",
+    "@11ty/eleventy": "4.0.0-alpha.10",
     "@11ty/eleventy-navigation": "^1.0.5",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.2",
     "@zachleat/heading-anchors": "github:zachleat/heading-anchors",
