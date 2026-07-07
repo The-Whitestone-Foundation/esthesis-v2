@@ -98,14 +98,8 @@ body {
     display: flex;
     flex-direction: column;
 }
-.text-hero,.text-hero-post  {
-    font-size: clamp(1rem, 10vw, 180px); 
-    max-width: 100%;
-    display: block;
-    overflow-wrap: break-word;
-    line-height: 1.1;
-}
-/*.text-hero-post {font-size: 4vw;} */
+
+
 .small {font-size:16px;}
 .smallest {font-size:12px;}
 .text-list-article {
@@ -250,22 +244,6 @@ footer a {color: inherit;}
   height: 300px;
   object-fit: cover;
 }
-@media (min-width: 601px) {
-.post-list-image {
-  width:100%;
-  height: 450px;
-  object-fit:cover;
-  }
-}
-
-
-  @media (max-width: 600px) {
-.post-list-image {
-  width:100%;
-  height: 300px;
-  object-fit:cover;
-  }
-}
 
 .post-article img {
     display: block; 
@@ -319,4 +297,122 @@ h1 svg  {
 .text-hero svg,.text-footer-title svg {
     max-width: 100%;
     height: auto;
+}
+
+/* ============================================
+   FIX POST 50/50
+   ============================================ */
+
+.post-title-fix {
+    font-size: 1.3rem;
+    line-height: 1.3;
+    min-height: 3.4rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-bottom: 0.5rem;
+}
+
+/* 3. FIX EXCERPT */
+.post-list-text {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-height: 4.5rem;
+}
+
+/* 4. FIX GAMBAR - TIMPA YANG LAMA */
+.post-list-image {
+    width: 100%;
+    height: 280px !important;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.img-post-list:hover .post-list-image {
+    transform: scale(1.02);
+}
+
+/* 5. FIX SPACING */
+article.col-md-6 {
+    margin-bottom: 2.5rem;
+}
+
+.img-post-list {
+    margin-bottom: 0.5rem;
+}
+
+/* 6. RESPONSIVE */
+@media (max-width: 991px) {
+    .post-list-image {
+        height: 220px !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .post-title-fix {
+        font-size: 1.1rem;
+        min-height: 2.8rem;
+    }
+    .post-list-image {
+        height: 200px !important;
+    }
+}
+
+@media (max-width: 576px) {
+    .post-title-fix {
+        font-size: 1rem;
+        min-height: 2.6rem;
+    }
+    .post-list-text {
+        -webkit-line-clamp: 2;
+        max-height: 3rem;
+    }
+    .post-list-image {
+        height: 180px !important;
+    }
+}
+
+[data-bs-theme="dark"] .post-title-fix {
+    color: var(--bs-body-color);
+}
+
+[data-bs-theme="dark"] .post-list-text {
+    color: var(--esthesis-gray);
+}
+/* ============================================
+   FIX ALL BIG TEXT - SATU RULE UNTUK SEMUA
+   ============================================ */
+
+.text-hero-post,
+.text-hero-posts,
+.archive-title,
+h1.fw-bold,
+.display-4 {
+    font-size: clamp(1rem, 4vw, 4.5rem);
+    line-height: 1.2;
+}
+
+@media (max-width: 768px) {
+    .text-hero-post,
+    .text-hero-posts,
+    .archive-title,
+    h1.fw-bold,
+    .display-4 {
+        font-size: clamp(0.9rem, 3vw, 1.5rem) !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .text-hero-post,
+    .text-hero-posts,
+    .archive-title,
+    h1.fw-bold,
+    .display-4 {
+        font-size: clamp(0.8rem, 2.5vw, 1.2rem) !important;
+    }
 }
