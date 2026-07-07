@@ -17,7 +17,7 @@ layout: base.njk
             <article class="col-6 col-md-3 mb-5">
                 <div class="contributor-card h-100 p-author h-card">
                     <a href="/contributor/{{ person.fileSlug }}/" 
-                    class="text-decoration-none text-dark p-name u-url">
+                    class="text-decoration-none p-name u-url">
                         <div class="ratio ratio-1x1 mb-3">
                             <img src="{{ person.data.image or metadata.image }}"
                                  alt="{{ person.data.name or person.data.title }}"
@@ -26,7 +26,7 @@ layout: base.njk
                                  style="transition: filter 0.3s ease;">
                         </div>
                         <h3 class="fw-bold h5 mb-1">{{ person.data.name or person.data.title }}</h3>
-                        <p class="text-muted small text-uppercase letter-spacing-1">
+                        <p class="small text-uppercase letter-spacing-1">
                             {{ person.data.role or person.data.affiliation or 'Author' }}
                         </p>
                     </a>
