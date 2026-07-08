@@ -11,7 +11,8 @@ eleventyComputed:
 <div class="container h-entry">
 {% for post in category.posts %}
 <article>
-<h2 class="p-name"><a href="/post/{{ post.slug }}/">{{ post.title }}</a></h2>
+<h2 class="p-name">
+  <a href="/post/{{ post.slug }}/">{{ post.title }}</a></h2>
 <p class="e-content">{{ post.excerpt|safe }}</p>
 </article>
 {% endfor %}
