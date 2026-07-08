@@ -61,7 +61,14 @@ Spem in alium nunquam habui
 
 Praeter in te, Deus Israel
 
-***Qui irasceris et propitius eris ******et omnia peccata hominum ******i****n tribulatione dimittis ******Domine Deus******Creator caeli et terrae ******respice humilitatem nostram***Sings the circle of forty speakers. The speakers are black and inward facing. Each speaker sounds the voice of one singer. A tenor. A soprano. A child. Sounds of the forty voices singing a sacred text in Latin reverberate through the halls of the museum. Before your arrival, its song was heard in the corridor. After you leave its circle,
+*Qui irasceris et propitius eris*  
+*et omnia peccata hominum*  
+*in tribulatione dimittis*  
+*Domine Deus*  
+*Creator caeli et terrae*  
+*respice humilitatem nostram*
+
+Sings the circle of forty speakers. The speakers are black and inward facing. Each speaker sounds the voice of one singer. A tenor. A soprano. A child. Sounds of the forty voices singing a sacred text in Latin reverberate through the halls of the museum. Before your arrival, its song was heard in the corridor. After you leave its circle,
 ![Figure 2. Janet Cardiff’s installation The Forty Part Motet.](/images/wp-content/uploads/2017/03/motet_2.jpg)Figure 2. Janet Cardiff’s installation The Forty Part Motet.
 
 it continues.

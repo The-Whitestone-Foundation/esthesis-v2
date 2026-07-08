@@ -32,7 +32,11 @@ Nevertheless, it was/is a powerful term, and I recall Readings saying once that 
 
 Which is why I think Readings’ book is still very much relevant today.  The rhetorical power of “excellence” has only grown since the mid-1990’s—and by “grown” I mean become more empty.
 
-At this point, I would like to make reference to two questions that Readings often asked in relation to art: *What is art? What does art do? *The better question, he thought via Lyotard, was the latter because the former returned us to a space of Platonic Forms, essences.  What does art do? is a Lyotardian question, a question not about obeying “rules,” but of doing something before “rules” determine and truncate the creative process.  I think, along with Bill, that this can be applied to the “university.”
+At this point, I would like to make reference to two questions that Readings often asked in relation to art: 
+
+## What is art? What does art do?
+
+The better question, he thought via Lyotard, was the latter because the former returned us to a space of Platonic Forms, essences.  What does art do? is a Lyotardian question, a question not about obeying “rules,” but of doing something before “rules” determine and truncate the creative process.  I think, along with Bill, that this can be applied to the “university.”
 
 What do universities do or what should universities do?  As Readings describes it in the last section of his book, “universities” are designed to *do *“dissensus.”  They forestall consensus, acting to suspend the closure or collapse of conversations around an inside and/or an outside.
 

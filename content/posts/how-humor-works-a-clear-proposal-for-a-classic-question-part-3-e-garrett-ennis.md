@@ -16,15 +16,15 @@ tags:
   - "straight-men"
 ---
 
-*The following is the third of a four-part series. The first can be found [here](/how-humor-works-a-clear-proposal-for-a-classic-question-part-1-e-garrett-ennis/)*, *the second [here](/how-humor-works-a-clear-proposal-for-a-classic-question-part-2-e-garrett-ennis/).**
+*The following is the third of a four-part series. The first can be found [here](/how-humor-works-a-clear-proposal-for-a-classic-question-part-1-e-garrett-ennis/)*, *the second [here](/how-humor-works-a-clear-proposal-for-a-classic-question-part-2-e-garrett-ennis/).*
 
 ## Chappelle’s Show
 
-While not running as long as Stern’s, Dave Chappelle’s TV show was enormously successful in the limited number of seasons that it did exist. Chappelle also, instinctively or purposefully, had comedy skits with heightened humor due to aspects similar to Stern’s mockery of his employees, which as we’ve shown fit neatly with the Status Loss Theory’s equation. The *lack of response *by a mocked person being one common example.
+While not running as long as Stern’s, Dave Chappelle’s TV show was enormously successful in the limited number of seasons that it did exist. Chappelle also, instinctively or purposefully, had comedy skits with heightened humor due to aspects similar to Stern’s mockery of his employees, which as we’ve shown fit neatly with the Status Loss Theory’s equation. The *lack of response* by a mocked person being one common example.
 
 You can notice many examples of
 someone getting insulted in the skits, such as when his above
-“playa-hater” pimp character, Silky*, *gets insulted by other haters, and taking a moment to simply look
+“playa-hater” pimp character, Silky, gets insulted by other haters, and taking a moment to simply look
 down at themselves awkwardly without responding.
 
 The example that springs quickest
@@ -71,7 +71,7 @@ relevant: There’s a joke that could be attempted here by starting this entry b
 but it doesn’t feel like the joke would work that well. We can apply Status
 Loss Theory and the equation to figure out why.
 
-At first consideration, it probably came to mind because it *would *represent a pretty valid and noticeably wrong error, since we just discussed two other shows in a row, and thinking it’s a program related to LGBT issues (particularly one that for some reason targets heterosexuals which would make little sense since most normal shows can be seen as doing that without needing to point that out) would be way off the path from what we were *actually *discussing with the phrase
+At first consideration, it probably came to mind because it *would* represent a pretty valid and noticeably wrong error, since we just discussed two other shows in a row, and thinking it’s a program related to LGBT issues (particularly one that for some reason targets heterosexuals which would make little sense since most normal shows can be seen as doing that without needing to point that out) would be way off the path from what we were *actually* discussing with the phrase
 
 However, it’s difficult to phrase
 the “clarification” in a way that’s short enough to be really
@@ -90,7 +90,7 @@ wrong but believable error we’re trying to quickly get people to imagine.
 
 As we’ve thought about it now, simply saying “no, this isn’t a
 homophobic TV show” would have much more brevity,
-probably enough to have gone for the joke. But the discussion of *why we originally didn’t *is probably
+probably enough to have gone for the joke. But the discussion of *why we originally didn’t* is probably
 more useful given our paper’s subject than a simple gag line.
 
 ## Funny Faces
@@ -139,7 +139,7 @@ because banana peels don’t seem that slippery to begin with.
 But
 regardless, anyone who’s seen the popularity of “fail compilations”
 on Youtube knows that slipping in
-general *is *and probably *will be *a potential source of humor as
+general *is* and probably *will be* a potential source of humor as
 long as humans exist.
 
 ## Funny Music
@@ -153,9 +153,8 @@ being stimulated verbal means, doesn’t need language to function, and due to
 evolution probably developed before we had it.
 
 In the case of BrodyQuest and a
-lot of other funny instrumental songs, the *type
-and tone *of instruments seems to play a key role. Here, the melody and a
-lot of the accents are of an abnormally high, and thus *immature *or *childish *tone.
+lot of other funny instrumental songs, the *type and tone* of instruments seems to play a key role. Here, the melody and a
+lot of the accents are of an abnormally high, and thus *immature* or *childish* tone.
 
 You might note also that at various points the instruments interrupt each other slightly, giving a feeling that they aren’t quite in harmony and are getting in each other’s way. Overly-enthusiastic pounding on the drums or strumming on the instruments can also give a feeling of childishness, eagerness to please (often a sign of low value), or improper amounts of emotion by the musicians
 
@@ -214,27 +213,26 @@ Mainly though to detached observers, not those in the immediate vicinity who may
 This is a good contrasting example that’s been brought up in earlier discussions of this idea. The question being why one does not automatically laugh if they’re checking the numbers on a company’s accounting and find something incorrect.
 
 The key reason is that, while
-you *have *found a small sign of
-low-quality, your *Quality Expected *wasn’t
-high. After all, if you *fully *expected
+you *have* found a small sign of
+low-quality, your *Quality Expected* wasn’t
+high. After all, if you *fully* expected
 already that the accounting would be perfect, you wouldn’t have checked. For a
-thing to potentially be funny, it must violate something you’ve already *taken for granted.*In this case, you
-aren’t taking for granted that the numbers are right, but you probably *are *taking for granted that the people
+thing to potentially be funny, it must violate something you’ve already *taken for granted.* In this case, you
+aren’t taking for granted that the numbers are right, but you probably *are* taking for granted that the people
 could write like functional adults.
 
 Thus, if you opened up the
-accounting books and found them *written
-in crayon *(this wouldn’t be very believable but work with me here), *that *would be the type of thing that
+accounting books and found them *written in crayon* (this wouldn’t be very believable but work with me here), *that* would be the type of thing that
 would violate something you were expecting and could potentially make you
 laugh.
 
 That’s provided of course, that
 you weren’t in any grave trouble due to this (meaning low anxiety), you
-realized that accounting books *really *shouldn’t
+realized that accounting books *really* shouldn’t
 be written in crayon (so it was noticeable) and that as we said, you believed
 that someone had actually really written the books that way (so it’d be valid).
 Note also though that weaker quality expectations can still be violated if
-something *very *wrong is found (in other
+something *very* wrong is found (in other
 words, if the quality noticed is low enough).
 
 ## Literal-Mindedness
@@ -267,7 +265,7 @@ become humorous).
 Another way to picture this is to
 imagine yourself pulling the string on a talking doll. The doll says the same
 thing over and over, which clearly is not what a normal person would do, and
-you aren’t frightened of the doll or anything like that. But you didn’t *expect anything better *of it. You didn’t
+you aren’t frightened of the doll or anything like that. But you didn’t *expect anything better* of it. You didn’t
 think the doll would be able to carry on a real conversation. So you don’t
 laugh.
 
@@ -309,7 +307,7 @@ with our next example.
 
 ## Bad Jokes
 
-It’s generally easier to investigate one’s humor and figure out why something *does *make you laugh, but the Status Loss Theory can also be used, with some thought, to figure out why bad jokes fail and even improve them. We’ve shown a bit of how this can be done with already funny material earlier, but now will focus on a joke that’s actively bad and see if we can salvage it.
+It’s generally easier to investigate one’s humor and figure out why something *does* make you laugh, but the Status Loss Theory can also be used, with some thought, to figure out why bad jokes fail and even improve them. We’ve shown a bit of how this can be done with already funny material earlier, but now will focus on a joke that’s actively bad and see if we can salvage it.
 
 Our patient in this case will be
 a joke I recall that actually won a “bad joke” contest on a cruise.
@@ -317,7 +315,7 @@ Which is quite simply, “what kinds of beans do animals like? Human
 Beings!” “Beings” and “beans” are pronounced
 similarly. On the cruise, this won the contest because it was so generally poor
 that it allowed people to laugh at the joke teller, but we want to see if we
-can make the joke *itself *funny.
+can make the joke *itself* funny.
 
 So what can we gather from looking
 at it now? Well for one, it’s intended to be a short set-up for a pun. This
@@ -328,13 +326,13 @@ In those cases, there laughter
 is based on pre-set standards of what should go where, so we can’t really raise
 expectations, nor is there any anxiety involved that would be lowering the
 humor, so we must instead focus on the other variables, making the misplacement
-as *valid *as we can while also being
-as *low a quality *(or wrong) and
+as *valid* as we can while also being
+as *low a quality* (or wrong) and
 noticeable as we can muster.
 
 In the case of the joke as it is
 currently, the pun attempt seems to fail for several reasons. First, it has
-validity problems. The statement itself is not *valid *even once you fix the intended misplacement.
+validity problems. The statement itself is not *valid* even once you fix the intended misplacement.
 
 Animals aren’t known for liking
 “beans,” nor are “animals” in general known for eating
@@ -346,7 +344,7 @@ We have to make the initial statement closer to something that makes sense. In
 this case, we know animals aren’t known for eating beans, so who is?
 
 Well, people are. Are there people
-who are known for eating people? Yes! *Cannibals.*So we’ll replace “animals” with “cannibals.”
+who are known for eating people? Yes! *Cannibals.* So we’ll replace “animals” with “cannibals.”
 
 Now, “human beings”
 still doesn’t sound *that *close to

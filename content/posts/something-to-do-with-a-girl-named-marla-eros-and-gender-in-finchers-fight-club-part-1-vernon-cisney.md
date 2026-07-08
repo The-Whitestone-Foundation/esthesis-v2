@@ -45,7 +45,11 @@ But common to nearly every reading of the film, critical and laudatory alike, is
 
 is indisputably a celebration of misogynistic, masculinist virility and violence. On its face, this assumption appears so overwhelmingly obvious as to render superfluous any argumentation in support thereof, and absurd any opposing argumentation. Consider the ubiquitous homoerotic adulation of the male body; or Tyler Durden’s (Brad Pitt’s) lamentation at being part of a “generation of men raised by women;” or the titular subject of the film – a self-help group for men only, founded on the principle of life-affirmation through physical pulverization; or the fact that, besides the momentary appearance of a terminally ill cancer patient, there is but one named female character in the entire film; or the obsessive fetishizing of male genitalia, coupled with anxieties over phallic substitutes and the concomitant fears of castration.
 
-From the opening scene – the narrator kneeling with a gun barrel forced into his mouth, to the film’s crescendo – the destruction of a dozen major credit card buildings, *Fight Club *relentlessly assaults the viewer with visceral images of shirtless, full-throated hyper-masculinity and violence, and with the quasi-philosophical misogynistic sermons of Tyler Durden.
+From the opening scene – the narrator kneeling with a gun barrel forced into his mouth, to the film’s crescendo – the destruction of a dozen major credit card buildings, 
+
+## Fight Club
+
+relentlessly assaults the viewer with visceral images of shirtless, full-throated hyper-masculinity and violence, and with the quasi-philosophical misogynistic sermons of Tyler Durden.
 
 But in spite of all this, 
 
@@ -61,9 +65,21 @@ She is the catalyst for the narrator’s path to selfhood, without recapitulatin
 
 , its attitudes toward gender and violence are not cut and dry.
 
-What follows is an exploration of this complexity. In a formulation that will require elaboration and defense, we can say that *Fight Club *is a film about one’s passage away from the late capitalist consumer’s life of complacent passivity, and toward an exteriorizing and relational notion of selfhood based upon the principle of complementarity. This is most evident in the film’s treatment of gender, and its relations to the complementary conceptual pairing of activity and passivity.
+What follows is an exploration of this complexity. In a formulation that will require elaboration and defense, we can say that 
 
-Tyler’s externalized irruption into the world of Fincher’s *Fight Club *is a result of the narrator’s attempted suppression of his own outwardly directed activity, in an effort to define himself as the good and faithful servant of passive consumption. [As critics George Wilson and Sam Shpall note](https://philpapers.org/rec/WILUTT), Marla ‘forces him to face the artificiality of his conduct&hellip;’(99) Her injection of spiritual complexity into the narrator’s world challenges the fractured and oppositional dualism that structures his life, provoking the internal confrontation that sets him on the path toward complementarity.*Fight Club *thus provides a depiction of selfhood that is always and essentially relational, both within the self itself, and in the self’s relations to others; and it is only by way of this realization that the narrator is able to finally begin a meaningful relationship with Marla.
+## Fight Club
+
+is a film about one’s passage away from the late capitalist consumer’s life of complacent passivity, and toward an exteriorizing and relational notion of selfhood based upon the principle of complementarity. This is most evident in the film’s treatment of gender, and its relations to the complementary conceptual pairing of activity and passivity.
+
+Tyler’s externalized irruption into the world of Fincher’s 
+
+## Fight Club
+
+is a result of the narrator’s attempted suppression of his own outwardly directed activity, in an effort to define himself as the good and faithful servant of passive consumption. [As critics George Wilson and Sam Shpall note](https://philpapers.org/rec/WILUTT), Marla ‘forces him to face the artificiality of his conduct&hellip;’(99) Her injection of spiritual complexity into the narrator’s world challenges the fractured and oppositional dualism that structures his life, provoking the internal confrontation that sets him on the path toward complementarity.
+
+## Fight Club
+
+thus provides a depiction of selfhood that is always and essentially relational, both within the self itself, and in the self’s relations to others; and it is only by way of this realization that the narrator is able to finally begin a meaningful relationship with Marla.
 
 Hence the interpretive lens that I shall employ is the ancient Chinese principle most commonly referred to as yin yang philosophy, and most prevalently elaborated in Taoism. With an ontology of essential complementarity at the heart of all things, yin yang philosophy posits a constitutive playful tension to account for the multiplicity of phenomena.
 

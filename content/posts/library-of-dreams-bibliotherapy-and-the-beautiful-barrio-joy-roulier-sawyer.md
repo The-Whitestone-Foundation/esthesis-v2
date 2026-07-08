@@ -62,7 +62,11 @@ I’d recently discovered that Arleen had developed the model based on her own d
 
 I’d also observed that good conversation about the literature was more transformative than simply reading alone—a principle embedded in the Hynes and Hynes-Berry method. Through my classroom teaching, I’d witnessed people of different cultures, ethnicities, and religious or political beliefs finding solidarity from a well-chosen piece of literature. The poetry conversations that emerged were often about our shared human experience, about the fragile threads that connect us. Arleen’s theory was also a surprising peacemaking approach.
 
-As I re-read the textbook late that evening, every prism of newly-revealed spiritual light proved a source of wonder for me.*How can academic theory be such a thing of beauty? *I marveled. But I already knew: because it introduced battered women to Clifton’s sassy hips, inspired at-risk youth living in Baca’s beautiful barrios.
+As I re-read the textbook late that evening, every prism of newly-revealed spiritual light proved a source of wonder for me.
+
+## How can academic theory be such a thing of beauty?
+
+I marveled. But I already knew: because it introduced battered women to Clifton’s sassy hips, inspired at-risk youth living in Baca’s beautiful barrios.
 
 Eventually, in the same way this progressive model gradually unfolded to me, I let the model unfold *me *into new ways of thinking*.*Early on in my own work as a licensed professional counselor, I’d read textbooks and taken continuing education courses on treating trauma. One of the hallmarks of many trauma theories was the integration of the sensory in treatment.
 

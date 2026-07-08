@@ -18,7 +18,9 @@ tags:
   - "popular-music"
 ---
 
-*The following if the first part in a two-part installment.*Author Note:*The following was written in 2015 and details how critical discussion of popular music is largely missing from the field of media studies. This essay discusses how popular music fits into a media studies theoretical framework, and more specifically, compares industry practices occurring around album cycles and music releases to industry practices that anticipate and follow the release of blockbusters. Furthermore, this essay looks at notions of building a universe or world with media, as narratively complex television shows do, and draws on the work of P. David Marshall, Derek Johnson, and Daniel Biltereyst and Philippe Meers to discuss the popular music album cycle as a world­building, intertextual, media event. Finally, this essay examines several notable popular music artists, Taylor Swift in particular, to develop a case study detailing how pop music’s artist empires are built.*
+*The following is the first part in a two-part installment.*
+
+**Author Note:** The following was written in 2015 and details how critical discussion of popular music is largely missing from the field of media studies. This essay discusses how popular music fits into a media studies theoretical framework, and more specifically, compares industry practices occurring around album cycles and music releases to industry practices that anticipate and follow the release of blockbusters. Furthermore, this essay looks at notions of building a universe or world with media, as narratively complex television shows do, and draws on the work of P. David Marshall, Derek Johnson, and Daniel Biltereyst and Philippe Meers to discuss the popular music album cycle as a world­building, intertextual, media event. Finally, this essay examines several notable popular music artists, Taylor Swift in particular, to develop a case study detailing how pop music’s artist empires are built.*
 
 ## The struggling studio album in a time of music streaming services
 
