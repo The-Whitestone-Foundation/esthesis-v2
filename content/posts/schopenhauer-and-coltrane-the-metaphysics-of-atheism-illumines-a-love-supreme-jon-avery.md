@@ -29,11 +29,19 @@ Contemplation of the Platonic Ideas (ideal forms as the inner nature of things) 
 
 Schopenhauer, who was world-famous from 1862 until 1914, was known for his non-theistic account of human existence that viewed all of experience as the objectification of the ever-renewing desire or will to live or to exist. Even though each individual is mortal, the ultimate source of the individual is indestructible. Thus, all individual existence is a fleeting struggle to exist, and each of us seeks temporary solace or salvation in the satisfaction of our desires.
 
-John Coltrane was involved after 1957 until his death in 1967 with “spiritual” jazz. God had saved him from a heroin and alcohol addiction, he claimed, and his music since then had been a praise of the same Deity. For example, in his prayer accompanying *A Love Supreme*Coltrane wrote, “let us sing all songs to God” and “thank you God”. But his idea of God is not always traditional as in “All paths lead to God” and “Elation Elegance Exaltation” and “All from God” in this same prayer.
+John Coltrane was involved after 1957 until his death in 1967 with “spiritual” jazz. God had saved him from a heroin and alcohol addiction, he claimed, and his music since then had been a praise of the same Deity. For example, in his prayer accompanying 
+
+## A Love Supreme
+
+Coltrane wrote, “let us sing all songs to God” and “thank you God”. But his idea of God is not always traditional as in “All paths lead to God” and “Elation Elegance Exaltation” and “All from God” in this same prayer.
 
 Philosophically speaking, how is this seeming conflict between Schopenhauer’s atheism and Coltrane’s theism to be reconciled? Through the fundamental experience of serenity or tranquility and the experience of God’s grace and bliss, which functions in a similar way even though the outward expression is different and even contradictory.
 
-There are four movements to the first Coltrane jazz suite of thirty two minutes and ten seconds called *A Love Supreme*: acknowledgement, resolution, pursuance, and psalm. The famous four-note-theme or motif of the first movement (F, A-flat, F, B-flat) has the same number of the syllables of both the title of the suite and the first two movements, which provides a rhythmic mantra for the contemplation of God in the rest of the piece. This is seemingly incidental but the division into four parts is significant in Schopenhauer’s metaphysics too, because the world for him has four dimensions and two levels: minerals, plants, animals, and human beings, which exist on the level of objectifications or appearances of desire or the will-to-live as their deeper level and source.
+There are four movements to the first Coltrane jazz suite of thirty two minutes and ten seconds called 
+
+## A Love Supreme
+
+: acknowledgement, resolution, pursuance, and psalm. The famous four-note-theme or motif of the first movement (F, A-flat, F, B-flat) has the same number of the syllables of both the title of the suite and the first two movements, which provides a rhythmic mantra for the contemplation of God in the rest of the piece. This is seemingly incidental but the division into four parts is significant in Schopenhauer’s metaphysics too, because the world for him has four dimensions and two levels: minerals, plants, animals, and human beings, which exist on the level of objectifications or appearances of desire or the will-to-live as their deeper level and source.
 
 Coltrane even locates the ultimate unifying or spiritual power of music in vibrations: “Thought waves – Heat waves – All vibrations – All paths lead to God.” (Prayer, 3).  Schopenhauer accepted in 1843 in his **[World As Will And Representation](https://books.google.com/books?id=qywdvi7bRAgC&printsec=frontcover&dq=schopenhauer+world+as+will+and+representation&hl=en&sa=X&ved=0ahUKEwiL5Pbr0PLPAhXmjVQKHb-SAtEQ6AEIKTAC#v=onepage&q=schopenhauer%20world%20as%20will%20and%20representation&f=false) that there was a scientific consensus that “all harmony of tones rests on the coincidence of vibrations.”(II, 117)
 
@@ -47,7 +55,11 @@ The spiritual power of music–which must be experienced first-hand to be truly 
 
 For example, great music captures the meaning of the narrative of a movie in a more forceful way than the plot and sequence of events themselves. Consider the fanfare from Strauss’ *Thus Spake Zarathustra*in Stanley Kubrick’s *2001: A Space Odyssey*as it captures the dawn of humanity or the heart-pounding theme of *Jaws*when the shark is about to eat a swimmer. All of this is accomplished without words.
 
-Similarly, the sudden breakthrough of realization in the first movement of Acknowledgement and the serenity of the last movement Psalm capture the inner essence of spiritual enlightenment and ecstasy. The frenetic solos of resolution and the frenzied solos of pursuance parallel the inner struggle to shed sins and acquire virtues in the spiritual life of almost any of the religious and philosophical traditions of the world. Thus, the flow of the four movements in *A Love Supreme*runs parallel to a spiritual transformation in four stages from realization through purgation and finally to purification and bliss or ecstasy.
+Similarly, the sudden breakthrough of realization in the first movement of Acknowledgement and the serenity of the last movement Psalm capture the inner essence of spiritual enlightenment and ecstasy. The frenetic solos of resolution and the frenzied solos of pursuance parallel the inner struggle to shed sins and acquire virtues in the spiritual life of almost any of the religious and philosophical traditions of the world. Thus, the flow of the four movements in 
+
+## A Love Supreme
+
+runs parallel to a spiritual transformation in four stages from realization through purgation and finally to purification and bliss or ecstasy.
 
 However, musical experience, like any other mystical experience, cannot be put into words, since purely instrumental music is non-verbal. The composer and the improviser work with elements of melody, rhythm, and harmony to express the unspeakable depths of the emotional life in a safe and hopefully cathartic manner.  According to Schopenhauer, “the inexpressible depth of all music, by virtue of which it floats past us as a paradise quite familiar and yet eternally remote, and is so easy to understand and yet so inexplicable, is due to the fact that it reproduces all the emotions of our innermost being, but entirely without reality and remote from its pain.”(I, 264)
 
@@ -55,9 +67,17 @@ Coltrane improvises a melody within the key of F minor by alternating the rhythm
 
 This tension and release in the emotional or spiritual life coincides for Schopenhauer in the alternation between “discord and reconciliation” in music. “Music consists generally in a constant succession of chords more or less disquieting, i.e., of chords exciting desire, with chords more or less quieting and satisfying; just as the life of the heart (the will) is a constant succession of greater or lesser disquietude through desire or fear with composure in degrees just as varied.”(II, 456)
 
-The satisfactions and disappointments of life are re-created in music by such techniques as *subito*attacks and crescendos, and of course, the rise and fall of pitch in the melodic line. All of these techniques are evident in *A Love Supreme*as is the purging of negative emotions such as sadness, fear, guilt, and anxiety so that we can feel joy, courage, relief and peace. Coltrane said as much in a final interview in 1966: “If one of my friends is ill, I’d like to play a certain song, and he’ll be cured.”
+The satisfactions and disappointments of life are re-created in music by such techniques as *subito*attacks and crescendos, and of course, the rise and fall of pitch in the melodic line. All of these techniques are evident in 
 
-Listening to or playing jazz music is a safe way to purge or release negative emotions and to begin a process of emotional rejuvenation, which constitutes the purifying or elevating power of music.  In addition, the appreciation of *A Love Supreme*can be facilitated by the assistance of the[titles and prayers written by John Coltrane](https://www.youtube.com/watch?v=f1xe7FDsQWY) to accompany his music.
+## A Love Supreme
+
+as is the purging of negative emotions such as sadness, fear, guilt, and anxiety so that we can feel joy, courage, relief and peace. Coltrane said as much in a final interview in 1966: “If one of my friends is ill, I’d like to play a certain song, and he’ll be cured.”
+
+Listening to or playing jazz music is a safe way to purge or release negative emotions and to begin a process of emotional rejuvenation, which constitutes the purifying or elevating power of music.  In addition, the appreciation of 
+
+## A Love Supreme
+
+can be facilitated by the assistance of the[titles and prayers written by John Coltrane](https://www.youtube.com/watch?v=f1xe7FDsQWY) to accompany his music.
 
 For Coltrane, the underlying unity of all things comes from God’s creative love, but for Schopenhauer it comes from the will-to-live or the unquenchable desire for existence. Today post-modernists would say there is no longer any “grand narrative” or underlying unity to all things.  But the orderliness of nature and the direct revelation and transformation of the emotions in music repudiate that view.
 
@@ -75,14 +95,25 @@ The skill of improvising beautiful solos that can be heard in the driving solos 
 
 In short, the metaphysical systems of theism and atheism function to describe the ultimate experience of either attaining the peace of God or the satisfaction of minimal desires. But one is not true and the other false.  They are simply different interpretations of the meaning of existence, depending on one’s conditioning and disposition.
 
-Why is *A Love Supreme*sometimes referred to as spiritual music? Spiritual music has the purpose of expressing the source of existence.
+Why is 
+
+## A Love Supreme
+
+sometimes referred to as spiritual music? Spiritual music has the purpose of expressing the source of existence.
 
 First, there is a happy metaphysical coincidence in the pulse or beat of the human heart and the pulse or beat of a piece of music. This helps tune the soul to the ground of being. Second, meditation is a form of concentrating awareness on the source of existence and Schopenhauer practiced the contemplation of reality, the flute and compassion for all life forms (especially dogs) with the goal of reducing his excessive desires and achieving peace.
 
-The poly-rhythms and rapid improvisations of *A Love Supreme*require an intense devotion that is not exceeded by even the most fervent monk or nun of any of the world’s religious orders. Yet the most spiritual aspect of jazz music is improvisation – because improvisation is the free and spontaneous creation of a work of beauty. God and beauty are one for Coltrane. And the power to create is shared by God and musicians who improvise. Finally, since beauty is the longstanding subject of the arts, and especially music for Schopenhauer, and it is common for theists to refer to nature as the “beauties of God’s creation,” it follows that jazz improvisation is a spiritual practice.
+The poly-rhythms and rapid improvisations of 
+
+## A Love Supreme
+
+require an intense devotion that is not exceeded by even the most fervent monk or nun of any of the world’s religious orders. Yet the most spiritual aspect of jazz music is improvisation – because improvisation is the free and spontaneous creation of a work of beauty. God and beauty are one for Coltrane. And the power to create is shared by God and musicians who improvise. Finally, since beauty is the longstanding subject of the arts, and especially music for Schopenhauer, and it is common for theists to refer to nature as the “beauties of God’s creation,” it follows that jazz improvisation is a spiritual practice.
 
 You can close your eyes and imagine one man strenuously working out his salvation through a horn by reaching for direct and immediate access to the heart of all things. With trance-inducing repetitions of a four note mantra and alternating moods of sadness and joy in minor and major keys, he finds relief at last from the daily struggles of life. The power of transcendental music — with love behind it — to cure souls of the blues, constitutes the spiritual power of
 
 ---
 
-*A Love Supreme*.*Jon Avery Ph.D. is a retired lecturer in philosophy at Bluegrass Community and Technical College in Lexington, Kentucky as well as a musician.*
+
+## A Love Supreme
+
+.*Jon Avery Ph.D. is a retired lecturer in philosophy at Bluegrass Community and Technical College in Lexington, Kentucky as well as a musician.*

@@ -263,5 +263,10 @@ export default function(eleventyConfig) {
             return `<${tag} id="${id}"${attrs}>${text}</${tag}>`;
         });
     });
+
+    eleventyConfig.addFilter("hasTocEntries", (content) => {
+        if (!content || typeof content !== "string") return false;
+        return /<h[2-5]\b[^>]*>[\s\S]*?<\/h[2-5]>/i.test(content);
+    });
     
 };

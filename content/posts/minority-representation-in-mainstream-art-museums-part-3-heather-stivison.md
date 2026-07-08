@@ -42,7 +42,11 @@ When WAC and the Dakota Elders sat down together, they came to the ethical decis
 
 The Whitney chose a different path than WAC, seeing censorship as a greater evil than an affront to the African American community. However, the public dialogues and forums offered at the Whitney in the wake of the protests were ethical responses to the minority anger. These discussions moved the dialogue further and allowed cultural differences to be expressed in a respectful setting.
 
-Museums attempted fair and balanced exhibition practices, but these attempts have often been clumsy and blind to the unique aspects of minority culture and history. If social justice is to be achieved for minorities in museums, it will require a commitment to inter-cultural dialogue that is based in respect for cultural differences.*A Proposed Solution*Museums are institutions created to preserve and interpret humanity’s culture—all of humanity, not just the dominant culture. Museums face ethical and moral challenges in their twin “duties” to protect minorities from harm and to protect artists from censorship. Legislation and quotas seem unlikely to be successful in changing the status quo.
+Museums attempted fair and balanced exhibition practices, but these attempts have often been clumsy and blind to the unique aspects of minority culture and history. If social justice is to be achieved for minorities in museums, it will require a commitment to inter-cultural dialogue that is based in respect for cultural differences.
+
+## A Proposed Solution
+
+Museums are institutions created to preserve and interpret humanity’s culture—all of humanity, not just the dominant culture. Museums face ethical and moral challenges in their twin “duties” to protect minorities from harm and to protect artists from censorship. Legislation and quotas seem unlikely to be successful in changing the status quo.
 
 Change will require honest and open dialogue in concert with the affected minorities. Education and open communication are the skeleton keys to unlocking the solutions. However, creating the most effective educational path is a challenge that requires deep and honest reflection and a willingness to change.
 
@@ -76,7 +80,11 @@ In the short term, museums and academia must offer minority artists and scholars
 
 As noted previously, the transition from the status quo to social justice will require changes at the most basic levels of education materials and hiring practices. It is not enough for a museum to present more minority art exhibitions and minority culture public programming. The solution must come from the inside, with a new work environment that no longer “privileges white, elite perspectives”, write Ng, Ware, and Greenberg. That is what is required to move the cultural acceptance process to the fourth and final phase, appreciation.
 
-What all of these potential solutions have in common, is awareness, reflection, and education, because inter-cultural animosity and social injustice are the products of ignorance.*Conclusion*Colonialism’s legacy in the English-speaking world is a society built upon the pervasive belief in white superiority. This belief has been the subconscious framework for art criticism and appreciation for generations. It is the reason the continuum of art history primarily featured Eurocentric art. Museum professionals, schooled with Eurocentric art courses and textbooks, have exhibited an interpreted art through the in-group lens of white art history.
+What all of these potential solutions have in common, is awareness, reflection, and education, because inter-cultural animosity and social injustice are the products of ignorance.
+
+## Conclusion
+
+Colonialism’s legacy in the English-speaking world is a society built upon the pervasive belief in white superiority. This belief has been the subconscious framework for art criticism and appreciation for generations. It is the reason the continuum of art history primarily featured Eurocentric art. Museum professionals, schooled with Eurocentric art courses and textbooks, have exhibited an interpreted art through the in-group lens of white art history.
 
 As a result, the majority of museums have ignored, devalued, misunderstood, or misrepresented the art from minority cultures. Even those museums that attempted to be more inclusive have done so in spotty, clumsy, and misguided ways. This is because the lingering legacy of colonialism colors their judgment and decision-making processes.
 

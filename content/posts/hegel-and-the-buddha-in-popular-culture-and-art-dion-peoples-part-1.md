@@ -45,7 +45,10 @@ Something sinister occurred, and those concerned should be brought together (the
 
 What is the point of mentioning sectarian-trouble? Today, we care about the status of Buddhist art, as we have it now – relics, preservation techniques, and the production of new works of various forms of art? Today, we can tell if the art is Theravada-influenced or Mahayana-influenced – but wasn’t there only one historical-Buddha in our conventional-era of history? However, are these new forms of art, original forms – or has Buddhist art been carried away by time and space, and other creative elements? A myriad of questions can be asked, but since those original universities have been destroyed, what can we learn, from then for now?
 
-*Defining The Artist and Art through Pāli*For this article, I am openly using the Digital Pali Reader for the terminology, and supposing that a general artist/craftsman [artificer] (*sippika*) is someone skilled in their specific craft (*sippaṭṭhāna*) – but someone who is artistic (*sippanugata*), who paints (*cittakamma*) pictures with paint (*citteti*) as a painter (*cittakara*), but not someone who uses colors (*vannaka*) as a colorist (*vaṇṇalepaka*), or uses dyes (*rajana/ranga*) as a dyer (*ranjaka/rangajivi*).
+
+## Defining The Artist and Art through Pāli
+
+For this article, I am openly using the Digital Pali Reader for the terminology, and supposing that a general artist/craftsman [artificer] (*sippika*) is someone skilled in their specific craft (*sippaṭṭhāna*) – but someone who is artistic (*sippanugata*), who paints (*cittakamma*) pictures with paint (*citteti*) as a painter (*cittakara*), but not someone who uses colors (*vannaka*) as a colorist (*vaṇṇalepaka*), or uses dyes (*rajana/ranga*) as a dyer (*ranjaka/rangajivi*).
 
 If someone is drawing (*alekhacitta*) as a drawing master (*alekhacittariya*), they can write (*lekkhanam*) as a writer (*lekhaka*). A writer (*lipikara*) uses handwriting (*hatthalipi*) towards his sacred-writing (*dhammalipi*). Maybe this will need transcribed (*putikam sampadeti*) by a transcriber (*puttikasampadaka*). There are many types of artists, working within or across genres/formats. These are the vocabulary- words used for people who are crafty with illustrations, mentioned in the conventional or general sense, for easy comprehension.
 
@@ -69,7 +72,10 @@ When dreaming, perhaps, we could think that Buddhist art is what we see on the w
 
 Some scholars envision Buddhist art to be about ancient or decades-old temple-murals, contemporary Buddhist art, Buddhist inspired music or movies, Buddhist inspired architecture seen outside of temples, various images, aspects of mythology, and any other associated concepts falling under the expansive rubric of various arts.  Are we seeing something real or fictitious?
 
-*Hegel and Art*Many Buddhists exposed deep sympathies towards the use of the Buddha in arts, tattoos, improper use of statues, and other things stemming from the lack of understanding over tradition or how to represent the Buddha. What is real about Buddhist art? Buddhism is a system of training-regulations and ideas for contemplating phenomena from various angles – art has nothing to do with it.
+
+## Hegel and Art
+
+Many Buddhists exposed deep sympathies towards the use of the Buddha in arts, tattoos, improper use of statues, and other things stemming from the lack of understanding over tradition or how to represent the Buddha. What is real about Buddhist art? Buddhism is a system of training-regulations and ideas for contemplating phenomena from various angles – art has nothing to do with it.
 
 Oh, well, maybe kasinas could be considered art, materially – OK, that is one compromise. What is being said here is: art and Buddhism really have no connection, but later people created and developed a connection. [Hegel has some influential words that can be connected towards how people perceive the Buddha through art](https://books.google.com/books?id=jbPCAgAAQBAJ&pg=PA484&lpg=PA484&dq=hegel+phenomenology+of+mind+dover+2003&source=bl&ots=0-QQlX03vl&sig=SgOYBiC55-YD_QqEbbHtOFXqwTo&hl=en&sa=X&sqi=2&ved=0ahUKEwj-6Lj707nUAhVl4IMKHQjfBF4Q6AEIXTAF#v=onepage&q=hegel%20phenomenology%20of%20mind%20dover%202003&f=false): “If reality is essentially spiritual – then experience only finds its complete meaning realized in the principle of Absolute Spirit.”(396)
 

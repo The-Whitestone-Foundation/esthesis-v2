@@ -40,7 +40,11 @@ The excessive fascination with the limits of the body that Taussig documents –
 
 Taussig’s language is difficult to succinctly explain.  While drawing on Georges Bataille’s notions of “excess”, he both draws on and self-consciously critiques Euro-centric discourse in a method he calls ficto-criticism, which blends ethnographic participant observation with extreme self-awareness in documenting human behavior.  His materialist focus draws on a tradition of Marxian criticism that corresponds to the economic situations in Latin America while also attending to forms of magic that exceed the discourse of liberation theology.
 
-It is Taussig’s economic focus, combined with León’s *Indigenismo*and religious poetics, that I argue are helpful for analyzing psychedelic and ayahuasca religions as NRMs.  In order to demonstrate this, the second half of this paper will focus more directly on ayahuasca religions in Brazil.  I will then conclude with some brief thoughts about the transnational diaspora of these religions.*Ayahuasca Religions*Among the twentieth-century hybrid religions that employ ayahuasca as a sacrament, Santo Daime is the first.  As [Marcelo Mercante summarizes](https://books.google.com/books?id=UsDsCwAAQBAJ&pg=PT21&dq=Marcelo+Mercante&hl=en&sa=X&ved=0ahUKEwjbo7Ls3fDSAhWBy4MKHUmkDqMQ6AEIIDAB#v=onepage&q=Marcelo%20Mercante&f=false):
+It is Taussig’s economic focus, combined with León’s *Indigenismo*and religious poetics, that I argue are helpful for analyzing psychedelic and ayahuasca religions as NRMs.  In order to demonstrate this, the second half of this paper will focus more directly on ayahuasca religions in Brazil.  I will then conclude with some brief thoughts about the transnational diaspora of these religions.
+
+## Ayahuasca Religions
+
+Among the twentieth-century hybrid religions that employ ayahuasca as a sacrament, Santo Daime is the first.  As [Marcelo Mercante summarizes](https://books.google.com/books?id=UsDsCwAAQBAJ&pg=PT21&dq=Marcelo+Mercante&hl=en&sa=X&ved=0ahUKEwjbo7Ls3fDSAhWBy4MKHUmkDqMQ6AEIIDAB#v=onepage&q=Marcelo%20Mercante&f=false):
 
 > Since the 1930s, three syncretic, Christian-based, and organized movements have evolved using the beverage as a sacrament.  The first of these was the Santo Daime movement, founded during the 1930s by Raimundo Irineu Serra, called *Mestre Irineu*.  The Barquinha movement emerged during the 1940s headed by Daniel Pereira de Mattos, known as *Frei Daniel*.  And in 1960 the União do Vegetal movement, which was started by José Gabriel da Costa, the *Mestre Gabriel*.(13)
 

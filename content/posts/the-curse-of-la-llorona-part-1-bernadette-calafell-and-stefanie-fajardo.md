@@ -42,7 +42,11 @@ confronted in *The Curse of La Llorona*(2019) through a justification of
 colonialism and a condemnation of women who step out of their normative roles.
 As many writers point out, La Llorona is malleable and open to interpretation
 and reinterpretation; she is the monster that enforces women’s societal roles
-but also provides inspiration for women who feel transgressive themselves.*The Myth and Colonial History*The myth and historical lineage of La Llorona is a long and contested one. Luis Leon, Juan Padilla, and Christina Santos gesture towards a genealogy that begins with the Aztecs and a mobilization of the myth after encounters with the Spanish colonizers. From these perspectives, colonialism and racism greatly contribute to the birth of La Llorona myth because La Malinche, as the predecessor of La Llorona, commits infanticide to prevent Hernan Cortes from taking their son to Spain. 
+but also provides inspiration for women who feel transgressive themselves.
+
+## The Myth and Colonial History
+
+The myth and historical lineage of La Llorona is a long and contested one. Luis Leon, Juan Padilla, and Christina Santos gesture towards a genealogy that begins with the Aztecs and a mobilization of the myth after encounters with the Spanish colonizers. From these perspectives, colonialism and racism greatly contribute to the birth of La Llorona myth because La Malinche, as the predecessor of La Llorona, commits infanticide to prevent Hernan Cortes from taking their son to Spain. 
 
 The relationships of power between Malintzin (La Malinche’s Aztec name), her people, and Hernan Cortes dramatically reduced the agential possibilities for Malintzin’s redemption, benefit, or even survival. The action that she took was one of few that she had the power to carry out under the subjugation of colonialism and patriarchy. Juan Padilla and Deborah Madsen go as far as to say that La Malinche’s action was a way to produce a distinctly “ethnic/racial” feminine voice within structures that would have otherwise produced a traditional patriarchal Mexican one.  
 

@@ -17,7 +17,10 @@ tags:
 
  
 
-*A City At War*Four days after the death of Ahmet Atakan, a 22-year-old protester allegedly killed by a gas canister fired by the police, the 13th Istanbul Biennial entitled [‘Anne, ben barbar miyim?’ (Mom, am I Barbarian?)](https://www.artforum.com/diary/id=43205) was inaugurated. This exhibition opened its doors in a precarious moment, to say the least, when the people on the streets of Istanbul, Antakya and Eskişehir among others, were still protesting. The tragic death of a young man and the Taksim Gezi Park protest was still fresh on their minds.
+
+## A City At War
+
+Four days after the death of Ahmet Atakan, a 22-year-old protester allegedly killed by a gas canister fired by the police, the 13th Istanbul Biennial entitled [‘Anne, ben barbar miyim?’ (Mom, am I Barbarian?)](https://www.artforum.com/diary/id=43205) was inaugurated. This exhibition opened its doors in a precarious moment, to say the least, when the people on the streets of Istanbul, Antakya and Eskişehir among others, were still protesting. The tragic death of a young man and the Taksim Gezi Park protest was still fresh on their minds.
 
 The [biennial](https://13b.iksv.org/en) took up this issue and revolved around the question: “how can we rethink the concept of multiple publics and public domain as a political forum in the light of [the] current condition?” The original aim of the organizers was to depart from the notion of ‘public sphere’ as a political forum proposed by Jürgen Habermas and to actualize a series of projects that would “intervene in urban public spaces.”
 
@@ -31,7 +34,10 @@ Also, should the reasons for these projects be motivated by their effectiveness 
 
 Alternatively, should we interpret effectiveness within the art and assume every artwork is successful, as, Claire Bishop claims in her book, [Artificial Hells: Participatory Art and The Politics of Spectatorship](https://books.google.com/books?id=iX8nQrLrybUC&printsec=frontcover&dq=bishop,+claire.+Artificial+hells&hl=en&sa=X&ved=0ahUKEwi8oNm8p6fTAhUlxoMKHaZ1BYsQ6AEIJTAA#v=onepage&q=bishop%2C%20claire.%20Artificial%20hells&f=false), that we must take into consideration “a complex work and its location within a particular time, place, and situation?” (8). Or, when speaking about artworks, should this term be associated with the ability to arouse emotions or reactions, and therefore linking it more accurately to the adjective ‘*a*ffectiveness,’ and if so, can artists through their practices affect or for that matter effect a difference?
 
-*To affect or to effect?***This urge to make a difference was a significant, but not a necessary endeavor, during the 13th Istanbul Biennial. This raises another uncomfortable issue considering the Istanbul Biennial, namely can the idea of the public domain be discussed within the context of the Istanbul Biennial? Can the withdrawal of the Biennial from the urban spaces, through these artworks, be condoned?
+
+## To affect or to effect?
+
+This urge to make a difference was a significant, but not a necessary endeavor, during the 13th Istanbul Biennial. This raises another uncomfortable issue considering the Istanbul Biennial, namely can the idea of the public domain be discussed within the context of the Istanbul Biennial? Can the withdrawal of the Biennial from the urban spaces, through these artworks, be condoned?
 
 At first glance, the answer would be no. Not in any case can these projects make allowance for the withdrawal of the biennial from the urban spaces, and this is due to various reasons. First, by pulling out of these problem areas, the Biennial constructed a separate entity within the safe areas of the city of Istanbul, thus denigrating the protests into something incongruous, which disrupted the logical system of capitalism and the gentrification program.
 
@@ -61,7 +67,10 @@ At the time of its demolition, the statue of the two men was not yet finished; t
 
 This bombastic and extremely theoretical advertorial framework seems to promise a lot. Which brings up the question, can the museum act as a space of interrogation, and in what ways? Can the museum effectively create a public discourse, and at the same time oblige to the liabilities agreed with their sponsors? Should the museum allow protests that are critical towards the program or the museum itself? Should the museum be the frontline where the idea of the public is contested?
 
-*The museum as a public space*What is the public in a contemporary context? How is this idea of the public constructed historically and how can we analyze it from its perspective of its geopolitics? Also, how can the public defined in the light of the current events in Turkey? How do these events affect the way we think about being public ourselves, and the public these events want to address?
+
+## The museum as a public space
+
+What is the public in a contemporary context? How is this idea of the public constructed historically and how can we analyze it from its perspective of its geopolitics? Also, how can the public defined in the light of the current events in Turkey? How do these events affect the way we think about being public ourselves, and the public these events want to address?
 
 A public is a prerequisite to the work of art, an art space or festival, if it wishes to function fully aesthetically or politically and have a substantial dialogue between maker and viewer, and between curator and the curated. As Andrea Phillips notes in her [lecture](https://www.youtube.com/watch?v=T935mVxM6OM), since the curatorial program circles around public and public domain, the curated is the viewer or the inhabitants or user of the space.
 

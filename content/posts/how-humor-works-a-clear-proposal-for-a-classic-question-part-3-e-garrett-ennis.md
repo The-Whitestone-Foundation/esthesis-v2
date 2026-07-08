@@ -16,7 +16,11 @@ tags:
   - "straight-men"
 ---
 
-*The following is the third of a four-part series. The first can be found [here](/how-humor-works-a-clear-proposal-for-a-classic-question-part-1-e-garrett-ennis/)*, *the second [here](/how-humor-works-a-clear-proposal-for-a-classic-question-part-2-e-garrett-ennis/).***Chappelle’s Show.**While not running as long as Stern’s, Dave Chappelle’s TV show was enormously successful in the limited number of seasons that it did exist. Chappelle also, instinctively or purposefully, had comedy skits with heightened humor due to aspects similar to Stern’s mockery of his employees, which as we’ve shown fit neatly with the Status Loss Theory’s equation. The *lack of response *by a mocked person being one common example.
+*The following is the third of a four-part series. The first can be found [here](/how-humor-works-a-clear-proposal-for-a-classic-question-part-1-e-garrett-ennis/)*, *the second [here](/how-humor-works-a-clear-proposal-for-a-classic-question-part-2-e-garrett-ennis/).**
+
+## Chappelle’s Show
+
+While not running as long as Stern’s, Dave Chappelle’s TV show was enormously successful in the limited number of seasons that it did exist. Chappelle also, instinctively or purposefully, had comedy skits with heightened humor due to aspects similar to Stern’s mockery of his employees, which as we’ve shown fit neatly with the Status Loss Theory’s equation. The *lack of response *by a mocked person being one common example.
 
 You can notice many examples of
 someone getting insulted in the skits, such as when his above
@@ -49,7 +53,11 @@ It may be that
 the anxiety Chappelle felt from this contributed to him not being able to enjoy
 his own show’s humor anymore, but regardless, the anecdote demonstrates some of
 the important subtleties in our
-humor instinct, and how fragile it can be.*Straight Men.*****Most comedic teams, especially in older TV performances that we can study, use what’s called a “Straight Man” for various effective purposes. These are easy to list within the theory. For one, Straight Men provide easy targets for the sillier character’s mockery, and their very “straightness” creates the high expectation that is often undermined to create the humor. Also, someone acting “normal” in the routine adds to the *validity *of it for the audience.
+humor instinct, and how fragile it can be.
+
+## Straight Men
+
+Most comedic teams, especially in older TV performances that we can study, use what’s called a “Straight Man” for various effective purposes. These are easy to list within the theory. For one, Straight Men provide easy targets for the sillier character’s mockery, and their very “straightness” creates the high expectation that is often undermined to create the humor. Also, someone acting “normal” in the routine adds to the *validity *of it for the audience.
 
 As we’ve seen, many of the above
 examples also clearly use people who can be classed as Straight Men. But some
@@ -83,7 +91,11 @@ wrong but believable error we’re trying to quickly get people to imagine.
 As we’ve thought about it now, simply saying “no, this isn’t a
 homophobic TV show” would have much more brevity,
 probably enough to have gone for the joke. But the discussion of *why we originally didn’t *is probably
-more useful given our paper’s subject than a simple gag line.*Funny Faces***.**Also known as “mugging,” and used to great effect by comedians like Jim Carrey. Much like farts in the previous paper, there are many situations in which a simple facial expression can be funny, and we can discuss a few here.
+more useful given our paper’s subject than a simple gag line.
+
+## Funny Faces
+
+Also known as “mugging,” and used to great effect by comedians like Jim Carrey. Much like farts in the previous paper, there are many situations in which a simple facial expression can be funny, and we can discuss a few here.
 
 For one, an unnatural facial
 expression is typically associated with bad acting, and when there’s a close-up
@@ -100,7 +112,11 @@ He can use this to make a fool of himself, as being overly emotionally effected 
 
 Most of
 Carrey’s exaggerated expressions as the Riddler in Batman Forever were done in this vein. We’ll focus more on this type
-of concept when we get to “Maniacal Laughter” in our later sections.*Slipping on Banana Peels.*****A classic type of humor, that we can touch on briefly. As we mentioned in the first paper, misplacement is the classic sign of mental error, and slipping is the classic sign of physical error, probably because it indicates both a lack of dexterity and a lack of visual awareness, as well as likely exposing both people who were too young and people who were too old to be attempting whatever physical feat they were trying.
+of concept when we get to “Maniacal Laughter” in our later sections.
+
+## Slipping on Banana Peels
+
+A classic type of humor, that we can touch on briefly. As we mentioned in the first paper, misplacement is the classic sign of mental error, and slipping is the classic sign of physical error, probably because it indicates both a lack of dexterity and a lack of visual awareness, as well as likely exposing both people who were too young and people who were too old to be attempting whatever physical feat they were trying.
 
 For this to work well, the
 “slipper” must be someone who isn’t of close association to the
@@ -124,7 +140,11 @@ But
 regardless, anyone who’s seen the popularity of “fail compilations”
 on Youtube knows that slipping in
 general *is *and probably *will be *a potential source of humor as
-long as humans exist.*Funny Music***.**We discussed song parodies above, but here we’re referring specifically to instrumental music that nonetheless can get humorous laughter, such as “[BrodyQuest](https://www.youtube.com/watch?v=ygI-2F8ApUM&t=5s)” by Lemon Demon.
+long as humans exist.
+
+## Funny Music
+
+We discussed song parodies above, but here we’re referring specifically to instrumental music that nonetheless can get humorous laughter, such as “[BrodyQuest](https://www.youtube.com/watch?v=ygI-2F8ApUM&t=5s)” by Lemon Demon.
 
 The visuals in the video have a
 humorous element, but for the purposes of this example the music itself is all
@@ -141,7 +161,11 @@ You might note also that at various points the instruments interrupt each other 
 
 When these are combined, one
 can enjoy the song while also unmistakably feeling some pleasure from the
-humorous things they’re also sensing.*“Poo-Poo” and Butt Humor***.**It seems natural to move onto this here. This helps to illustrate how people of different ages tend to find different things funny also. Children won’t notice a lot of more subtle adult errors, but the problems of potty-training, farts, and pooping oneself and so on are close to their experience, as well as highly noticeable in the sounds, smells, and dramatic incidents associated with them.
+humorous things they’re also sensing.
+
+## “Poo-Poo” and Butt Humor
+
+It seems natural to move onto this here. This helps to illustrate how people of different ages tend to find different things funny also. Children won’t notice a lot of more subtle adult errors, but the problems of potty-training, farts, and pooping oneself and so on are close to their experience, as well as highly noticeable in the sounds, smells, and dramatic incidents associated with them.
 
 Moving out of diapers and
 learning to control one’s bodily-functions is also a large part of their
@@ -158,10 +182,18 @@ convenient way to demonstrate layered humor, with potential quality gaps shown
 in either the self (of the “imagine how wrong it would be if I meant
 this” variety), or in other people (by happily offending them without any
 acknowledgement of consequences). Thus, children naturally would love to joke
-about butts and what comes from them.*Unfunniness*That’s probably
+about butts and what comes from them.
+
+## Unfunniness
+
+That’s probably
 enough examples to demonstrate the basic functions of the humor equation in
 things that cause humorous laughter. Let’s move on and discuss a few examples
-of things that are NOT funny, and the reasons why.*Bullying***.**It’s probably clear by now that the anxiety created by seeing someone legitimately threatened or frightened would render bullying largely unfunny to a viewer. But it’s also worth pointing out that the “Quality Gap” comes into play here, further reducing any potential humor.
+of things that are NOT funny, and the reasons why.
+
+## Bullying
+
+It’s probably clear by now that the anxiety created by seeing someone legitimately threatened or frightened would render bullying largely unfunny to a viewer. But it’s also worth pointing out that the “Quality Gap” comes into play here, further reducing any potential humor.
 
 This is because
 “bullies” purposefully pick on people who they think are weaker than
@@ -175,7 +207,11 @@ fail miserably, are ripe for laughter for the same reason. That course of
 events would violate the expectation of who has the strength or power in the
 situation.
 
-Mainly though to detached observers, not those in the immediate vicinity who may have anxiety about whether the newly-embarrassed bully would get violent.*Accounting Errors.*****This is a good contrasting example that’s been brought up in earlier discussions of this idea. The question being why one does not automatically laugh if they’re checking the numbers on a company’s accounting and find something incorrect.
+Mainly though to detached observers, not those in the immediate vicinity who may have anxiety about whether the newly-embarrassed bully would get violent.
+
+## Accounting Errors
+
+This is a good contrasting example that’s been brought up in earlier discussions of this idea. The question being why one does not automatically laugh if they’re checking the numbers on a company’s accounting and find something incorrect.
 
 The key reason is that, while
 you *have *found a small sign of
@@ -199,7 +235,11 @@ be written in crayon (so it was noticeable) and that as we said, you believed
 that someone had actually really written the books that way (so it’d be valid).
 Note also though that weaker quality expectations can still be violated if
 something *very *wrong is found (in other
-words, if the quality noticed is low enough).*Literal-Mindedness.*****This refers to a type of thought process that causes people to rarely laugh, or have no apparent sense of humor. If someone is uncomfortable with social interaction, they will feel uncommonly high amounts of anxiety in most conversations, which will kill their sense of humor.
+words, if the quality noticed is low enough).
+
+## Literal-Mindedness
+
+This refers to a type of thought process that causes people to rarely laugh, or have no apparent sense of humor. If someone is uncomfortable with social interaction, they will feel uncommonly high amounts of anxiety in most conversations, which will kill their sense of humor.
 
 But generally, “literal-mindedness” refers to an inability, for one reason or another, to
 recognize what other people will and won’t normally say or think. They’ll
@@ -238,7 +278,11 @@ do know, like in “Sheldon Cooper’s” case, math. They will have an
 expectation for what the average person should understand (which for most real
 people will be unattainably high), and thus might laugh at any math-related
 question you try to ask. Thus, different people’s knowledge bases and amount of
-social experience will effect their sense of humor.*“Sticks in the Mud***.” **Also known as being humorless, stiff, stern, stodgy, or many other things. A chief example is Animal House’s “Dean Wormer,” seen above. A “Stick in the Mud” person is different from a “Literal Minded” one, in that they may deal with others all the time, as
+social experience will effect their sense of humor.
+
+## “Sticks in the Mud”
+
+Also known as being humorless, stiff, stern, stodgy, or many other things. A chief example is Animal House’s “Dean Wormer,” seen above. A “Stick in the Mud” person is different from a “Literal Minded” one, in that they may deal with others all the time, as
 
 Dean Wormer spoke to his students
 regularly. As such, they can know perfectly well when you’re attempting to
@@ -261,7 +305,11 @@ thoughts about the joking students in front of me, and find myself just as
 unamused by their behavior. Hopefully you can do the same, if you haven’t been
 doing so with the examples already. I find this to be the best way to
 investigate and verify these ideas, and this will especially come into play
-with our next example.*Bad Jokes.*****It’s generally easier to investigate one’s humor and figure out why something *does *make you laugh, but the Status Loss Theory can also be used, with some thought, to figure out why bad jokes fail and even improve them. We’ve shown a bit of how this can be done with already funny material earlier, but now will focus on a joke that’s actively bad and see if we can salvage it.
+with our next example.
+
+## Bad Jokes
+
+It’s generally easier to investigate one’s humor and figure out why something *does *make you laugh, but the Status Loss Theory can also be used, with some thought, to figure out why bad jokes fail and even improve them. We’ve shown a bit of how this can be done with already funny material earlier, but now will focus on a joke that’s actively bad and see if we can salvage it.
 
 Our patient in this case will be
 a joke I recall that actually won a “bad joke” contest on a cruise.

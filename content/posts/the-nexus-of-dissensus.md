@@ -14,9 +14,17 @@ tags:
   - "universities"
 ---
 
-*![screen-10](/images/wp-content/uploads/2016/08/screen-10.jpg)We should not attempt to bring about a rebirth or renaissance of the University, but think its ruins as the sedimentation of historical differences that remind us that Thought cannot be present to itself.  We live in an institution, and we live outside it.  We work there, and we work with what we have at hand.  The University is not going to save the world by making the world more true, nor is the world going to save the University by making the University more real.  The question of the University is not how to achieve a stable or perfect relation between inside and outside, between ivory tower and the streets.*–Bill Readings, *The University in Ruins*It would be a true Borgesian task to attempt to complete a library of all the extent texts critiquing the innumerable failures of the “academy.”
+*![screen-10](/images/wp-content/uploads/2016/08/screen-10.jpg)We should not attempt to bring about a rebirth or renaissance of the University, but think its ruins as the sedimentation of historical differences that remind us that Thought cannot be present to itself.  We live in an institution, and we live outside it.  We work there, and we work with what we have at hand.  The University is not going to save the world by making the world more true, nor is the world going to save the University by making the University more real.  The question of the University is not how to achieve a stable or perfect relation between inside and outside, between ivory tower and the streets.*–Bill Readings, 
 
-My late friend and professor Bill Readings, however, tried to approximate this task “conceptually” with his posthumously published book *The University in Ruins*, which I had early in-process glimpses of as a grad student while at Syracuse University. His book, among other things, deconstructs the “bookends” of the academy’s “epic” failure–the nostalgic longing for the “university from the days of true excellence . . . before the ruins” and the aspirational forward planning effective-management-driven “corporate university of excellence,” a post-historical, global “edu-business” that turns everything (even dissent) into a market and students (and almost everyone else it seems) into eager “customers.”
+## The University in Ruins
+
+It would be a true Borgesian task to attempt to complete a library of all the extent texts critiquing the innumerable failures of the “academy.”
+
+My late friend and professor Bill Readings, however, tried to approximate this task “conceptually” with his posthumously published book 
+
+## The University in Ruins
+
+, which I had early in-process glimpses of as a grad student while at Syracuse University. His book, among other things, deconstructs the “bookends” of the academy’s “epic” failure–the nostalgic longing for the “university from the days of true excellence . . . before the ruins” and the aspirational forward planning effective-management-driven “corporate university of excellence,” a post-historical, global “edu-business” that turns everything (even dissent) into a market and students (and almost everyone else it seems) into eager “customers.”
 
 The organizing term that works to tie together the temporal and faltering ends of the university is, “excellence.”  However, as Readings notes, it is an “empty” excellence, then and now – an excellence defined by an idyllic past that never existed and a present that is always chasing the horizon of managerial efficiency and persuasive marketing.
 

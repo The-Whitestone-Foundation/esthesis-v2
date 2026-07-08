@@ -34,7 +34,11 @@ The trial, in turn, evoked a
 specter of the show trials conducted by the Soviet state. The power dynamics at
 play during the performance followed by the trial, made many people
 co-participate by interpreting the events, articulating positions, and changing
-sides. The “meaning” of the action was, and still is, intensely contested.*Pussy Riot Performance and Its Political Context*On February 12, 2012, five young
+sides. The “meaning” of the action was, and still is, intensely contested.
+
+## Pussy Riot Performance and Its Political Context
+
+On February 12, 2012, five young
 women masked in colorful balaclavas, short dresses and bright leggings jumped
 on to the *ambon*– an extension of the altar accessible to view for those
 who are present in the church – in the Cathedral of Christ the Savior, Moscow. A
@@ -254,7 +258,11 @@ forbidding signage. The fact that “Do not step on the lawn!” united differen
 political movements was sad and ironic. At this point, there was very little
 hope for a constructive outcome to the protest, for a positive change. 
 
-Many activists were arrested. My acquaintance Leonid Razvozshaev reported torture from prison. Two months later, on August 17th, three members of Pussy Riot were convicted of “hooliganism motivated by religious hatred.” Samutsevich appealed her sentence and she was freed on probation, but Alyokhina and Tolokonnikova were sent to different prisons in October.*“Women Ought to Give Birth and to Love”*The answer to the question “Why
+Many activists were arrested. My acquaintance Leonid Razvozshaev reported torture from prison. Two months later, on August 17th, three members of Pussy Riot were convicted of “hooliganism motivated by religious hatred.” Samutsevich appealed her sentence and she was freed on probation, but Alyokhina and Tolokonnikova were sent to different prisons in October.
+
+## “Women Ought to Give Birth and to Love”
+
+The answer to the question “Why
 has the Pussy Riot performance attracted so much attention?” is threefold.
 First, the performance was bright and simple. It used the expressive language
 of punk rock music, which is easily relatable and very vivid. Second, it

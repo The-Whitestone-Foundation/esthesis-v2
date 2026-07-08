@@ -78,7 +78,11 @@ As Dunn and Saterstrom discuss in the video above, they think of plot as a space
 
 In her semi-dream state, Tiger is being interviewed by Barbara Walters on the subject of cooking. “Of all the cakes, I love most red velvet. Barbara, did you know that if a Southern bride serves red velvet cake at her wedding it’s considered a slutty thing to do? True story. It’s the equivalent of wearing a red dress to a funeral when you have been the mistress to the man in the casket” (72). Recipes show up as a form of writing throughout the book.
 
-> *Red Velvet Classic*Get a thorn from a white rose bush.
+> 
+
+## Red Velvet Classic
+
+Get a thorn from a white rose bush.
 And a box of Betty Crocker red velvet cake mix.
 Acquire a jar of gold, magnetic sand. Goat milk, fresh if
 you can arrange it, you will need a whole cup. And bowls:

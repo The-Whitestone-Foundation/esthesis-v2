@@ -44,7 +44,11 @@ DYH:  That’s a wonderful question, and I will be happy to in this case.  I a
 
 There are examples of that throughout this book, but it begins with the poem that honors  the founding fathers of high-technology out of Silicon Valley.
 
-That continued forward. I began to think about the idea of making computer language into a new *lingua franca*. Yates had the texts of Byzantium as his *lingua franca*. He loved classical Greek mythology, the Latin poets etc. So what is our *lingua franca*? it can’t be the personal narrative.  It can’t be a identity theory, gender politics, although these are important topics for our time. [The latter] can’t really be the new conversation.  So this book led me to the next book, which is titled *The Underworld of Lesser Degrees*, which was kind of a companion piece to *Hyperlinks of Anxiety.*But in *Underworld*what you’re getting is something more along the lines of a parody.
+That continued forward. I began to think about the idea of making computer language into a new *lingua franca*. Yates had the texts of Byzantium as his *lingua franca*. He loved classical Greek mythology, the Latin poets etc. So what is our *lingua franca*? it can’t be the personal narrative.  It can’t be a identity theory, gender politics, although these are important topics for our time. [The latter] can’t really be the new conversation.  So this book led me to the next book, which is titled *The Underworld of Lesser Degrees*, which was kind of a companion piece to 
+
+## Hyperlinks of Anxiety
+
+But in *Underworld*what you’re getting is something more along the lines of a parody.
 
 There is an earnestness in my first discovery. But as I became more convinced of the sincerity and the genuineness of the experience, the satirical in me began to become manifest. You can’t have a genuineness without a little *commedia dell’arte *working through you, so of course I had to, because I’m a student of yours, Carl, going way back in theology, theogony,        hermeneutics, deconstruction  – you name it.   So in time I begin to incorporate a kind of satirical approach to the theogonic in poetry – and of course even computer viruses.
 

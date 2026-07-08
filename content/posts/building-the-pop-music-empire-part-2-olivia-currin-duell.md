@@ -21,7 +21,11 @@ tags:
   - "taylor-swift"
 ---
 
-*The following is the second part in a two-part installment. The first part can be found [here](/building-the-pop-music-empire-part-1-olivia-currin-duell/).**Popular music artists as intertextual commodities*Indeed, when fans support an artist with such ferocity, and both consume and contribute to the artist’s empire, the studio album can remain an important and lucrative component of the music industry, but only because fan anticipation fuels an established artist’s album cycle. What this means is that when an artist releases an album, the texts that surround the release, which compile the overall album cycle*, *constitute a larger media event.
+*The following is the second part in a two-part installment. The first part can be found [here](/building-the-pop-music-empire-part-1-olivia-currin-duell/).*
+
+## Popular music artists as intertextual commodities
+
+Indeed, when fans support an artist with such ferocity, and both consume and contribute to the artist’s empire, the studio album can remain an important and lucrative component of the music industry, but only because fan anticipation fuels an established artist’s album cycle. What this means is that when an artist releases an album, the texts that surround the release, which compile the overall album cycle*, *constitute a larger media event.
 
 For instance, highly invested fans anticipate each small piece of information related to the music artist they follow. Therefore, promotional material, even just an announcement of a far­off release date, a thirty second preview of an upcoming single, or a tracklisting can produce intense fan speculation. For artists popular enough to warrant this massive attention, the album release thus becomes a highly anticipated and notable event in itself.
 

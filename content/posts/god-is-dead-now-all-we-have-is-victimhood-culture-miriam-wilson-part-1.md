@@ -17,7 +17,11 @@ tags:
   - "jean-francois-lyotard"
   - "victimhood-culture"
 ---
-*The following is the first installment of a two-part series.*> Picture ‘the enemy’ as the man of *ressentiment*conceives him—and here precisely is his deed, his creation: he has conceived ‘the evil enemy,’ *‘the Evil One,’*and this in fact is his basic concept, from which he then evolves, as an afterthought and pendant, a ‘good one’—himself!” – Friedrich Nietzsche, *On the Genealogy of Morals*As centuries-old traditional cultural, religious, and moral structures collapse, and new technologies arise, humanity has come to a fateful crossroads.
+*The following is the first installment of a two-part series.*> Picture ‘the enemy’ as the man of *ressentiment*conceives him—and here precisely is his deed, his creation: he has conceived ‘the evil enemy,’ *‘the Evil One,’*and this in fact is his basic concept, from which he then evolves, as an afterthought and pendant, a ‘good one’—himself!” – Friedrich Nietzsche, 
+
+## On the Genealogy of Morals
+
+As centuries-old traditional cultural, religious, and moral structures collapse, and new technologies arise, humanity has come to a fateful crossroads.
 
 The collapse of these structures, especially that dominant Western outlook which the nineteenth century German philosopher Friedrich Nietzsche termed “the Christian-moral view of the world”, has left us starting into an ideological void. While a great deal of artistic, academic, and social advances can be attributed to this rapidly changing environment, the chaos and uncertainty has not been without consequences.
 

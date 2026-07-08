@@ -111,7 +111,11 @@ freedom of expression than many other countries with semi-military regimes, all
 the “resistance” is happening on the social networks and several marginally
 influential websites. Still, it bothers the state, and the conversation that
 patriots need to shut down or at least increase control over the internet is
-recurrent.*Cultural Memory and a Figure of Jurodivy*C
+recurrent.
+
+## Cultural Memory and a Figure of Jurodivy
+
+C
 
 The Pussy Riot performance turned
 out to be one of the most widely and wildly discussed topics in Russia for
@@ -291,7 +295,11 @@ sentence was too benign, and it should have been more severe.
 If an event is a rupture in
 continuity, which is what constitutes the “eventness” of the event, it must
 allude to some type of context, which participants and observers are able to
-read and interpret.*Obscenity, Femininity, and a Specter of Show Trial*Every now and then scholars
+read and interpret.
+
+## Obscenity, Femininity, and a Specter of Show Trial
+
+Every now and then scholars
 mention Pussy Riot in connection with Femen. [Both groups consist](https://read.dukeupress.edu/boundary-2/article-abstract/41/1/153/6484/Post-Soviet-Russia-The-Land-of-the-Oil-Curse-Pussy?redirectedFrom=fulltext) of political actionists whose creative
 methods are concerned with “performed femininity,” [perhaps on the border](https://www.tandfonline.com/doi/abs/10.1080/00905992.2014.917074) of “sextremism.” “Sextremist feminists” is a
 definition and self-identification that belongs to the Ukrainian-born group

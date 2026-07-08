@@ -29,17 +29,37 @@ A name that can be named is not The Name
 
 The first rule of fight club is: you do not talk about fight club.The second rule of fight club is: you do not talk about fight club.
 
-—Tyler Durden, *Fight Club***David Fincher’s 1999 film, *Fight Club*, has been characterized in many ways: as a romantic comedy, an exploration of white, middle-class male angst,[[v]](#_edn5) an existentialist search for meaning amidst the moral ruins of late capitalism, an anarchist manifesto, and so on.
+—Tyler Durden, 
 
-But common to nearly every reading of the film, critical and laudatory alike, is the assumption that *Fight Club*is indisputably a celebration of misogynistic, masculinist virility and violence. On its face, this assumption appears so overwhelmingly obvious as to render superfluous any argumentation in support thereof, and absurd any opposing argumentation. Consider the ubiquitous homoerotic adulation of the male body; or Tyler Durden’s (Brad Pitt’s) lamentation at being part of a “generation of men raised by women;” or the titular subject of the film – a self-help group for men only, founded on the principle of life-affirmation through physical pulverization; or the fact that, besides the momentary appearance of a terminally ill cancer patient, there is but one named female character in the entire film; or the obsessive fetishizing of male genitalia, coupled with anxieties over phallic substitutes and the concomitant fears of castration.
+## Fight Club
+
+David Fincher’s 1999 film, 
+
+## Fight Club
+
+, has been characterized in many ways: as a romantic comedy, an exploration of white, middle-class male angst,[[v]](#_edn5) an existentialist search for meaning amidst the moral ruins of late capitalism, an anarchist manifesto, and so on.
+
+But common to nearly every reading of the film, critical and laudatory alike, is the assumption that 
+
+## Fight Club
+
+is indisputably a celebration of misogynistic, masculinist virility and violence. On its face, this assumption appears so overwhelmingly obvious as to render superfluous any argumentation in support thereof, and absurd any opposing argumentation. Consider the ubiquitous homoerotic adulation of the male body; or Tyler Durden’s (Brad Pitt’s) lamentation at being part of a “generation of men raised by women;” or the titular subject of the film – a self-help group for men only, founded on the principle of life-affirmation through physical pulverization; or the fact that, besides the momentary appearance of a terminally ill cancer patient, there is but one named female character in the entire film; or the obsessive fetishizing of male genitalia, coupled with anxieties over phallic substitutes and the concomitant fears of castration.
 
 From the opening scene – the narrator kneeling with a gun barrel forced into his mouth, to the film’s crescendo – the destruction of a dozen major credit card buildings, *Fight Club *relentlessly assaults the viewer with visceral images of shirtless, full-throated hyper-masculinity and violence, and with the quasi-philosophical misogynistic sermons of Tyler Durden.
 
-But in spite of all this, *Fight Club*’s thoughts on gender and violence are far more complex than they first appear. We should keep in mind that the film’s embodiment of hyper-masculine aggression, Tyler, is a projection of a suffering and fragmented subjectivity amidst a psychotic breakdown. His status as the film’s antagonist severely complicates any putative simple heroizing of Tyler’s character or philosophy.
+But in spite of all this, 
+
+## Fight Club
+
+’s thoughts on gender and violence are far more complex than they first appear. We should keep in mind that the film’s embodiment of hyper-masculine aggression, Tyler, is a projection of a suffering and fragmented subjectivity amidst a psychotic breakdown. His status as the film’s antagonist severely complicates any putative simple heroizing of Tyler’s character or philosophy.
 
 We would also do well to note that despite her singularity as the only named female character in the film, Marla Singer is arguably the most interesting and admirable character in the film, with an evolving character arc that does not easily conform to traditional gender stereotypes or to standard Hollywood conceptions of feminine love or beauty. She is both strong and nurturing, brazen and uncouth but beautiful, and by turns confident and independent, vulnerable and insecure.
 
-She is the catalyst for the narrator’s path to selfhood, without recapitulating the Western myth of the ‘eternal-feminine’[[ix]](#_edn9) – the pure, selfless, virginal ideal who, from her unattainable heights, motivates the ‘hero’s quest’. Marla does not ‘complete’ him, nor he her. She conforms to no ideal, and she is neither a prize nor a simple plot device.[[x]](#_edn10) Whatever else one might say about *Fight Club*, its attitudes toward gender and violence are not cut and dry.
+She is the catalyst for the narrator’s path to selfhood, without recapitulating the Western myth of the ‘eternal-feminine’[[ix]](#_edn9) – the pure, selfless, virginal ideal who, from her unattainable heights, motivates the ‘hero’s quest’. Marla does not ‘complete’ him, nor he her. She conforms to no ideal, and she is neither a prize nor a simple plot device.[[x]](#_edn10) Whatever else one might say about 
+
+## Fight Club
+
+, its attitudes toward gender and violence are not cut and dry.
 
 What follows is an exploration of this complexity. In a formulation that will require elaboration and defense, we can say that *Fight Club *is a film about one’s passage away from the late capitalist consumer’s life of complacent passivity, and toward an exteriorizing and relational notion of selfhood based upon the principle of complementarity. This is most evident in the film’s treatment of gender, and its relations to the complementary conceptual pairing of activity and passivity.
 
@@ -53,7 +73,15 @@ The irony of this ancient and revered symbol of balance and simplicity, co-opted
 
 Finally, if I take as my point of entry and primary object of analysis the question of complementarity through the dimension of *gender*, it is because the narrator himself advises at the film’s outset that we do so: “And suddenly, I realize that all of this – the gun, the bombs, the revolution – has got something to do with a girl named Marla Singer.” The film is framed by this signpost and by the concluding image of Marla and the narrator, holding hands as the culmination of Project Mayhem’s vision unfolds. This interpretive choice is therefore based upon the narrator’s characterization of the narrative as a ‘love’ story of sorts.
 
-We now turn to our discussion of *Fight Club*. First, I shall briefly lay out the elements of Taoist thought most central to the reading I here proffer.*Letting Now the Dark, Now the Light Appear*In ancient Chinese thought, [the Tao is synonymous with the absolute or supreme reality](https://books.google.com/books?id=CWgKfAEACAAJ&dq=Watts+Tao:+The+Watercourse+Way&hl=en&sa=X&ved=2ahUKEwi0zsjAyPHjAhXMHM0KHSA8Cr0Q6AEwAHoECAIQAg). But the Tao bears almost nothing in common with Western anthropomorphic conceptions of divinity, “in the sense of the ruler, monarch, commander, architect, and maker of the universe.”(40)
+We now turn to our discussion of 
+
+## Fight Club
+
+. First, I shall briefly lay out the elements of Taoist thought most central to the reading I here proffer.
+
+## Letting Now the Dark, Now the Light Appear
+
+In ancient Chinese thought, [the Tao is synonymous with the absolute or supreme reality](https://books.google.com/books?id=CWgKfAEACAAJ&dq=Watts+Tao:+The+Watercourse+Way&hl=en&sa=X&ved=2ahUKEwi0zsjAyPHjAhXMHM0KHSA8Cr0Q6AEwAHoECAIQAg). But the Tao bears almost nothing in common with Western anthropomorphic conceptions of divinity, “in the sense of the ruler, monarch, commander, architect, and maker of the universe.”(40)
 
 The Tao is not a person, and hence it does not think, know, plan, will, or love. It neither gives nor obeys any law; and Taoism on the whole is resistant to rigid codes of propriety and law. Finally, while the Tao is understood as *eternal*, its eternality is conceivable only as process and fluctuation, as opposed to the Western conception of unchanging, timeless, enduring self-presence. In this sense, it bears more in common with Heraclitean fire than with traditional monotheistic conceptions of God.
 
@@ -86,7 +114,15 @@ Chuang Tzu claims that the “pivot provides the center of the circle, which is 
 
 Finally, given that the Tao is the guiding principle of nature, its rhythmic direction is uncircumventable. Watts refers to the Tao as the “Watercourse Way”, conceiving of it both as the oceanic source and destination of being, as well as the differentiated rivers and streams feeding into it. Chuang Tzu refers to “&hellip; the Great Ocean&hellip; Ten thousand rivers flow into it, and it has never been known to stop, but it never fills.”(137-8)
 
-And like the river, the Tao cannot be forced against its nature, nor are we capable of swimming against its currents; the more effort that human beings exert to constrain it, the more determinedly it will rebound with a counterforce, like a spring after being tightly compressed: “that which is forced is likely to return&hellip;”(Verse 30) Thus, given that the yin and the yang *are *the creative complementarity of the Tao, it follows that an effort to constrain one of its aspects will result in a violent and unexpected irruption of the same. With that, we turn to our reading of *Fight Club*.*The Ikea Nesting Instinct*We are given a tremendous amount of information in the film’s opening minutes, learning much of what we need in order to understand who the narrator is. He has no name, lives in a nameless city, and works for a nameless automobile manufacturer. He is everyone, and no one in particular. His life has become one of unmitigated passivity, inwardly directed energy, by his own admission defined entirely in accordance with his consumption choices. As he says, “Like so many others I had become a slave to the Ikea nesting instinct&hellip; I’d flip through catalogs and wonder, what kind of dining set defines me as a person?”
+And like the river, the Tao cannot be forced against its nature, nor are we capable of swimming against its currents; the more effort that human beings exert to constrain it, the more determinedly it will rebound with a counterforce, like a spring after being tightly compressed: “that which is forced is likely to return&hellip;”(Verse 30) Thus, given that the yin and the yang *are *the creative complementarity of the Tao, it follows that an effort to constrain one of its aspects will result in a violent and unexpected irruption of the same. With that, we turn to our reading of 
+
+## Fight Club
+
+.
+
+## The Ikea Nesting Instinct
+
+We are given a tremendous amount of information in the film’s opening minutes, learning much of what we need in order to understand who the narrator is. He has no name, lives in a nameless city, and works for a nameless automobile manufacturer. He is everyone, and no one in particular. His life has become one of unmitigated passivity, inwardly directed energy, by his own admission defined entirely in accordance with his consumption choices. As he says, “Like so many others I had become a slave to the Ikea nesting instinct&hellip; I’d flip through catalogs and wonder, what kind of dining set defines me as a person?”
 
 [Lynn Ta writes](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1542-734X.2006.00370.x), “This scene mimics the image of a masturbating man, sitting in the privacy of his bathroom, looking at pornography, and participating in phone sex.”(274) We learn, however, that he is holding a furniture catalog, from which he is placing an order, after which he disaffectedly tosses the catalog onto a stack of others, (again hearkening toward while subverting a stereotypical image of a single man’s bathroom).
 

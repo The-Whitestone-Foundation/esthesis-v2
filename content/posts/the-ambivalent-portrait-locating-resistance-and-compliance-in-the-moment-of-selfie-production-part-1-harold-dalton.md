@@ -22,7 +22,10 @@ tags:
 
 *The following is the first of a two-part series.**Epistemologically, recognizing the importance of routines for media use, means that text and context cannot always be distinguished from one another.”*—Joke Hermes (1993)
 
-*Introduction*When I think of the selfie, I am always drawn to a particular moment in my life. It was a hot summer in Victoria, Australia, when I encountered a koala bear nonchalantly clinging to a tree just above head height. A typical tourist, I approached cautiously and used my phone to take a photograph, and then moved aside for the three people waiting patiently behind me. Then I witnessed a curious sight: rather than engage with the animal, they turned their backs to it in unison, then raised a selfie stick and posed for a photograph. Functionally, my photograph and the photograph this group took served similar purposes—both were mementos that demonstrated we’d encountered something exciting and unusual. 
+
+## Introduction
+
+When I think of the selfie, I am always drawn to a particular moment in my life. It was a hot summer in Victoria, Australia, when I encountered a koala bear nonchalantly clinging to a tree just above head height. A typical tourist, I approached cautiously and used my phone to take a photograph, and then moved aside for the three people waiting patiently behind me. Then I witnessed a curious sight: rather than engage with the animal, they turned their backs to it in unison, then raised a selfie stick and posed for a photograph. Functionally, my photograph and the photograph this group took served similar purposes—both were mementos that demonstrated we’d encountered something exciting and unusual. 
 
 Yet, witnessing their selfie’s production and realizing that the act of turning away from the subject of the photograph removed them from real life engagement at the same time as it incorporated them into the photograph stuck with me. Somehow the selfie carried a different set of meanings to my more traditional photograph, and these meanings were present in the moment of photographic production I had witnessed.
 
@@ -42,7 +45,11 @@ lot of ground, perhaps more than if a rigorous debate was already underway. It
 should therefore be understood that a rejection of the object/practice duality
 is the thread with which this paper attempts to stitch many ongoing, formative
 discussions together, and, as such, hopes to serve as a foundation upon which
-future study can be built.*Defining the Selfie*The selfie is a complex product. It is perhaps because of its complexity
+future study can be built.
+
+## Defining the Selfie
+
+The selfie is a complex product. It is perhaps because of its complexity
 that the academy has thus far struggled to find a singular perspective from
 which to deconstruct its meanings. Nevertheless, the academy is united in its
 splitting of the selfie into two distinct concepts: the selfie as object (which
@@ -63,7 +70,11 @@ Such is Nichols’ conviction that the selfie is a linear progression from oil p
 
 [Sociotechnical ethnographers Edgar Gómez and Helen Thornham](https://www.tandfonline.com/doi/full/10.3402/jac.v7.28073) disagree, instead positioning the selfie within a photographic practice that places image-making as “one element of several connective processes, inclusive of the power dynamics, design of, and normative practices of social networks” (3). In understanding the selfie as an assemblage of connective photographic processes , we turn to Adorno, whose[photographic self-portrait](https://www.pinterest.com/pin/573786808759366675/)recalls what Nichols describes as “original selfies” with its dependence on the mirror to make visible both the subject and the technologies of the image’s own creation. 
 
-Adorno’s picture depicts the scene in which the picture of Adorno is created, [a portrait in which the subject portrays himself as](https://www.jstor.org/stable/30161946?seq=1) the image of an object, “uncovering the ways in which the self is always already an image” (1). For Adorno, the self within the selfie might be the “absent referent” , yet the subject of his photograph is not himself, but instead the concept of the self-portrait. The referent self within the selfie is, in fact, the selfie: its subject is the object it produces, weaving a complex interlocution of meanings constituting a wry dialectical play. Adorno finds in the self-portrait that the seer and the seen are one and the same, yet never simultaneously; the private and the public intrude on each other but never become one another; the technical aspects of the photograph are not the photograph itself, but are of the image just as the image is of them.*The Class Slippage of the Portrait*The selfie is therefore an assemblage built around a photographic process
+Adorno’s picture depicts the scene in which the picture of Adorno is created, [a portrait in which the subject portrays himself as](https://www.jstor.org/stable/30161946?seq=1) the image of an object, “uncovering the ways in which the self is always already an image” (1). For Adorno, the self within the selfie might be the “absent referent” , yet the subject of his photograph is not himself, but instead the concept of the self-portrait. The referent self within the selfie is, in fact, the selfie: its subject is the object it produces, weaving a complex interlocution of meanings constituting a wry dialectical play. Adorno finds in the self-portrait that the seer and the seen are one and the same, yet never simultaneously; the private and the public intrude on each other but never become one another; the technical aspects of the photograph are not the photograph itself, but are of the image just as the image is of them.
+
+## The Class Slippage of the Portrait
+
+The selfie is therefore an assemblage built around a photographic process
 that comprises, among many other tendrils of discourse, both the photographic
 object and the cultural practice (Hess 2015). Whether or not we choose to
 position the selfie as a continuation of the portrait, it is nevertheless clear

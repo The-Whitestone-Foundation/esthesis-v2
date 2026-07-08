@@ -18,7 +18,11 @@ tags:
   - "walt-disney"
 ---
 
-*The following is the third of a three-part series.  The first installment can be found here, the second one [here.](/gender-and-sexuality-in-the-animated-films-of-walt-disney-and-hayao-miyazaki-part-2-hiroko-miyashita/)**Storylines and Narrative Forms of Disney and Miyazaki*Finally, I examine the three animated films from the perspective of narratology. When watching these three animated films, it is simple to discover that all three stories have similar narrative structures. All the protagonists are accidentally caught up in a series of adventures, and through their trials and tribulations, the protagonists become mentally stronger and emotionally mature. This could be seen in both western and Japanese folk narratives as well.
+*The following is the third of a three-part series.  The first installment can be found here, the second one [here.](/gender-and-sexuality-in-the-animated-films-of-walt-disney-and-hayao-miyazaki-part-2-hiroko-miyashita/)*
+
+## Storylines and Narrative Forms of Disney and Miyazaki
+
+Finally, I examine the three animated films from the perspective of narratology. When watching these three animated films, it is simple to discover that all three stories have similar narrative structures. All the protagonists are accidentally caught up in a series of adventures, and through their trials and tribulations, the protagonists become mentally stronger and emotionally mature. This could be seen in both western and Japanese folk narratives as well.
 
 As a matter of fact, [Margaret Thorp noted that](https://books.google.com/books?id=5k7mMgEACAAJ&dq=margaret+farrand+thorp+america+at+the+movies&hl=en&sa=X&ved=0ahUKEwiKqdTzpOraAhUq0oMKHXkWBJsQ6AEILjAB) Walt Disney’s animated films became a part of American folklore (23), and [Hayao Miyazaki himself stated](https://books.google.com/books?id=srrOngEACAAJ&dq=miyazaki+turning+point&hl=en&sa=X&ved=0ahUKEwj75NqkperaAhVl34MKHRwCB1EQ6AEIKTAA) that he considered his animated film *Spirited Away *was a direct descendant of Japanese folktales (199). As seen the old bathhouse and the Shinto shrine, *Spirited Away *indeed attempts to connect contemporary Japan and old Japan using these traditional motifs.
 
@@ -40,7 +44,11 @@ Like *Spirited Away*, in the story of *Alice in Wonderland*, the river acts as a
 
 Therefore, at the end of the story, when she opens her heart fully to her younger sister and herself, the world is also unfrozen and flowers bloom. Moreover, ice, which is related to water, is the motif indicating the boundaries between closed and open society in the narrative.
 
-These three animated films have similar motifs and narrative structures influenced by old tales. Disney and Miyazaki, however, not only have used the traditional materials but also have recreated the old narratives to the new anime fantasies in modern society.*Conclusion*I have attempted to make clear the similarities and differences between Japanese and American cultures in order to understand the relationship between popular culture and identity in each of the societies. In order to do so, I have compared and analyzed the animated films such as Disney Studio’s *Alice in Wonderland *and *Frozen*, and Hayao Miyazaki’s *Spirited Away *from cultural perspectives because both Walt Disney and Hayao Miyazaki are the two best known and world-renowned directors in the history of animated film.
+These three animated films have similar motifs and narrative structures influenced by old tales. Disney and Miyazaki, however, not only have used the traditional materials but also have recreated the old narratives to the new anime fantasies in modern society.
+
+## Conclusion
+
+I have attempted to make clear the similarities and differences between Japanese and American cultures in order to understand the relationship between popular culture and identity in each of the societies. In order to do so, I have compared and analyzed the animated films such as Disney Studio’s *Alice in Wonderland *and *Frozen*, and Hayao Miyazaki’s *Spirited Away *from cultural perspectives because both Walt Disney and Hayao Miyazaki are the two best known and world-renowned directors in the history of animated film.
 
 When watching these three animated films, it is very clear that the female protagonists take control of their own mental and emotional growth, and the stories are good representations of what modern women should be. Especially, as considering the Japanese and American societies of today, it is interesting that Disney’s *Frozen *and Miyazaki’s *Spirited Away *have been greatly admired by many Japanese and American women.
 

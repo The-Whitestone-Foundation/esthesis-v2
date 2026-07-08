@@ -21,7 +21,11 @@ tags:
   - "zionism"
 ---
 
-*The following is the second installment of a two-part series.  The first one can be [found here](/images-of-place-and-territory-in-contemporary-israeli-jew-and-palestinian-art-part-1-yael-guilat/)*.*Translation from Hebrew: Daria Kassovsky.**Representation of the Israeli-Palestinian Conflict: Landscapes and Maps*****In the local history of landscape representation as territory, concurrent with the development of the landscape motif in national-Zionist art, landscape in Palestinian art[has also played a key role in the construction of national identity](https://www.reaktionbooks.co.uk/display.asp?K=9781861892591).  Scenic maps evolved as an expression of the conflict between two epistemes, and at the same time—as an embodiment of the territorial conflict between Israel and the Palestinians.
+*The following is the second installment of a two-part series.  The first one can be [found here](/images-of-place-and-territory-in-contemporary-israeli-jew-and-palestinian-art-part-1-yael-guilat/)*.*Translation from Hebrew: Daria Kassovsky.*
+
+## Representation of the Israeli-Palestinian Conflict: Landscapes and Maps
+
+In the local history of landscape representation as territory, concurrent with the development of the landscape motif in national-Zionist art, landscape in Palestinian art[has also played a key role in the construction of national identity](https://www.reaktionbooks.co.uk/display.asp?K=9781861892591).  Scenic maps evolved as an expression of the conflict between two epistemes, and at the same time—as an embodiment of the territorial conflict between Israel and the Palestinians.
 
 The Zionist movement considered itself as a movement of a return to the place – a place at once geographical and transcendental: “God is the place of the world, but the world is not His place” (Genesis Rabbah 68:9). A place which is present-absent must be represented and signified.
 
@@ -49,7 +53,11 @@ His works present landscape and map, both in need of restoration and healing. Ph
 
 According to Juval Portugali, cognitive maps are tied with internal representation of the external environment in terms of the individual, the collective, and the history of that collective, indicating the interplay between external and internal representation. Just as “a man’s conduct in a space derives not only from the objective structure of that space (as symbolized in an ordinary cartographic map), but is largely dictated by the image of the space as sketched in his consciousness, namely—from his cognitive map,” so its artistic representation is affected by it.
 
-The same internal image of the space is a type of imagined landscape. Moreover, collective cognitive maps may include realms of memory or of passion. Hence, cognitive maps result from map-space relations, forming the ground on which the mapping practices of scenic maps are applied.*Between Landscape and Map: Scenic Maps*Scenic maps expose three major practices, [as defined by Irit Rogoff](https://books.google.com/books?id=glr8K-01_QcC&printsec=frontcover&dq=Irit+Rogoff,+Terra+Infirma:+Geography%E2%80%99s+Visual+Culture&hl=en&sa=X&ved=0ahUKEwjf4-HysvbhAhXKmOAKHTAQAb8Q6AEIKjAA#v=onepage&q=Irit%20Rogoff%2C%20Terra%20Infirma%3A%20Geography%E2%80%99s%20Visual%20Culture&f=false): re-mapping, un-mapping, and counter-mapping. These seem to respond not only to historical, cultural, and artistic processes—which, in the Israeli context, are profoundly linked to Zionist settlement and the Israeli-Palestinian conflict)—but also, as aforesaid, to mental maps, mythical depth structures, and their manifestations on the surface.
+The same internal image of the space is a type of imagined landscape. Moreover, collective cognitive maps may include realms of memory or of passion. Hence, cognitive maps result from map-space relations, forming the ground on which the mapping practices of scenic maps are applied.
+
+## Between Landscape and Map: Scenic Maps
+
+Scenic maps expose three major practices, [as defined by Irit Rogoff](https://books.google.com/books?id=glr8K-01_QcC&printsec=frontcover&dq=Irit+Rogoff,+Terra+Infirma:+Geography%E2%80%99s+Visual+Culture&hl=en&sa=X&ved=0ahUKEwjf4-HysvbhAhXKmOAKHTAQAb8Q6AEIKjAA#v=onepage&q=Irit%20Rogoff%2C%20Terra%20Infirma%3A%20Geography%E2%80%99s%20Visual%20Culture&f=false): re-mapping, un-mapping, and counter-mapping. These seem to respond not only to historical, cultural, and artistic processes—which, in the Israeli context, are profoundly linked to Zionist settlement and the Israeli-Palestinian conflict)—but also, as aforesaid, to mental maps, mythical depth structures, and their manifestations on the surface.
 
 A distinctive engagement with the territorial myth is seen in Gal Weinstein’s works. Repeatedly constituting an imagined reality that oscillates between topography and landscape, he created scenic maps as floor installations that unfold at the viewer’s feet, denying him entry; landscape which deliberately fails in its panoramic function, while interfering with the spatial imagination.
 

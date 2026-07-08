@@ -61,7 +61,11 @@ Where did this ‘degeneratism’ lead later in the century? The element of shoc
 
 > The ‘offensiveness’ of any given work always boils down to subjectivity – people are too frightened either of seeming to be shocked, or of seeming not to be shocked, to be able to define the relationship between art and morals.
 
-It was creating the challenge of offence, discomfort and unpleasantness, to the viewer and critic alike. This was a new type of connection with the audience. The example in the opening paragraph regarding the *Prostitution*Exhibition (1976) shows the impact media and politics had and still have today upon the arts.
+It was creating the challenge of offence, discomfort and unpleasantness, to the viewer and critic alike. This was a new type of connection with the audience. The example in the opening paragraph regarding the 
+
+## Prostitution
+
+Exhibition (1976) shows the impact media and politics had and still have today upon the arts.
 
 Andre Serrano’s ‘[Piss Christ](https://100photos.time.com/photos/andres-serrano-piss-christ),’ the infamous ‘[Sensation ‘ Show](https://www.youtube.com/watch?v=yPAYybt0v20),’ Tracey’s bed and Damian’s formaldehyde beasts, the [portrait of Myra](https://www.artsy.net/artwork/marcus-harvey-myra), Benetton advertising, and Viennese Action Cinema: all claiming infamy through transgression and disruption to human behavior and challenging the norm with their choice of materials and installation.
 
