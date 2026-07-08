@@ -10,7 +10,8 @@ layout: base.njk
 {% if page.url == "/editorial-staff/" %}
   {% set pagefindTitleWeight = 5.0 %}
 {% endif %}
-<h1 class="text-uppercase text-hero-post fw-bold p-name" data-pagefind-meta="title" data-pagefind-weight="{{ pagefindTitleWeight }}"><a href="{{page.url}}" class="none">
+<h1 class="text-uppercase text-hero fw-bold p-name" 
+data-pagefind-meta="title" data-pagefind-weight="{{ pagefindTitleWeight }}"><a href="{{page.url}}" class="none">
 {{ title }}
 </a></h1>
 {% if description %}<p class="visually-hidden" data-pagefind-meta="description">{{ description }}</p>{% endif %}

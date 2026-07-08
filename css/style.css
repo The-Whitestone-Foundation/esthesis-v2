@@ -11,10 +11,12 @@
 }
 
 h1 {
-  font-family: "Bella Sophie", "BELLA SOPHIE Regular", Lato, sans-serif;
-  font-size: 180px;
-  letter-spacing: 0.025em;
-  text-align: center;
+    font-family: "Bella Sophie", "BELLA SOPHIE Regular", Lato, sans-serif;
+    font-size: 180px;
+    letter-spacing: 0.08em;
+    text-align: center;
+    word-spacing: 0.15em;
+    padding: 0 30px;
 }
 /* === AAA Accessible Color Scheme: Black, Red, Gray, White === */
 [data-bs-theme="light"] {
@@ -54,7 +56,7 @@ h1.text-hero {
     font-family: "Bella Sophie", "BELLA SOPHIE Regular", sans-serif !important;
     font-size: 180px !important;
     line-height: 0.8 !important;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.06em;
     margin: 0 !important;
     padding: 0 !important;
     text-align: center;
@@ -99,7 +101,9 @@ body {
     flex-direction: column;
 }
 
-
+.normal {
+  font-family: "Lato", sans-serif;
+}
 .small {font-size:16px;}
 .smallest {font-size:12px;}
 .text-list-article {
@@ -299,11 +303,7 @@ h1 svg  {
     height: auto;
 }
 
-/* ============================================
-   FIX POST 50/50
-   ============================================ */
-
-.post-title-fix {
+.post-title {
     font-size: 1.3rem;
     line-height: 1.3;
     min-height: 3.4rem;
@@ -325,7 +325,7 @@ h1 svg  {
     max-height: 4.5rem;
 }
 
-/* 4. FIX GAMBAR - TIMPA YANG LAMA */
+
 .post-list-image {
     width: 100%;
     height: 280px !important;
@@ -355,7 +355,7 @@ article.col-md-6 {
 
 @media (max-width: 768px) {
     .post-title-fix {
-        font-size: 1.1rem;
+        font-size: 1.2rem;
         min-height: 2.8rem;
     }
     .post-list-image {
@@ -365,7 +365,7 @@ article.col-md-6 {
 
 @media (max-width: 576px) {
     .post-title-fix {
-        font-size: 1rem;
+        font-size: 1.1rem;
         min-height: 2.6rem;
     }
     .post-list-text {
@@ -383,36 +383,4 @@ article.col-md-6 {
 
 [data-bs-theme="dark"] .post-list-text {
     color: var(--esthesis-gray);
-}
-/* ============================================
-   FIX ALL BIG TEXT - SATU RULE UNTUK SEMUA
-   ============================================ */
-
-.text-hero-post,
-.text-hero-posts,
-.archive-title,
-h1.fw-bold,
-.display-4 {
-    font-size: clamp(1rem, 4vw, 4.5rem);
-    line-height: 1.2;
-}
-
-@media (max-width: 768px) {
-    .text-hero-post,
-    .text-hero-posts,
-    .archive-title,
-    h1.fw-bold,
-    .display-4 {
-        font-size: clamp(0.9rem, 3vw, 1.5rem) !important;
-    }
-}
-
-@media (max-width: 480px) {
-    .text-hero-post,
-    .text-hero-posts,
-    .archive-title,
-    h1.fw-bold,
-    .display-4 {
-        font-size: clamp(0.8rem, 2.5vw, 1.2rem) !important;
-    }
 }

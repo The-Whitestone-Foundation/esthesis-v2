@@ -15,8 +15,8 @@ layout: base.njk
                     {%- endfor -%}
                 </nav>
                 
-                <h1 class="text-uppercase text-hero-posts fw-bold p-name" data-pagefind-meta="title" data-pagefind-weight="7.0">{{ title }}</h1>
-                {% if description %}<h2 class="lead my-3">{{ description }}</h2>{% endif %}
+                <h2 class="text-uppercase text-hero-posts fw-bold p-name" data-pagefind-meta="title" data-pagefind-weight="7.0">{{ title }}</h2>
+                {% if description %}<h3 class="lead my-3">{{ description }}</h3>{% endif %}
                 <p class="small">{{ page.date | readableDate }}</p>
             </div>
         </div>
