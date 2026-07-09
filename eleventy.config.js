@@ -38,25 +38,11 @@ export default function (eleventyConfig) {
     typographer: true
   })
   .use(markdownItAnchor, {
-  slugify: slugifyString,
-  permalink: markdownItAnchor.permalink.ariaHidden({
-    placement: "after",
-    class: "header-anchor",
-    symbol: ""
-  }),
-  level: [2, 3, 4] 
-})
+    slugify: slugifyString,
+    level: [1, 2, 3, 4]
+  })
   .use(markdownItFootnote)
-  .use(markdownItAttrs)
-  .use(markdownItAnchor, {
-    permalink: markdownItAnchor.permalink.ariaHidden({
-      placement: "after",
-      class: "header-anchor",
-      symbol: ""
-    }),
-    level: [1, 2, 3, 4],
-    slugify: eleventyConfig.getFilter("slugify")
-  });
+  .use(markdownItAttrs);
 
   eleventyConfig.setLibrary("md", mdLib);
   eleventyConfig.addFilter("md", (content) => mdLib.render(content));
