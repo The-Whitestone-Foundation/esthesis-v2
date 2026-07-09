@@ -1,6 +1,5 @@
 <!doctype html>
 <html lang="{{ metadata.language or 'en' }}" prefix="zotero: http://www.zotero.org/namespaces/export#" data-bs-theme="auto">
-<script src="/docs/5.3/assets/js/color-modes.js"></script>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -26,13 +25,9 @@
     localStorage.setItem('theme', theme)
     const actual = theme === 'auto' ? (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light') : theme
     document.documentElement.setAttribute('data-bs-theme', actual)
-    
-    const activeIcon = document.querySelector('#bd-theme use')
-    const selectedIcon = document.querySelector(`[data-bs-theme-value="${theme}"] use`).getAttribute('href')
-    activeIcon.setAttribute('href', selectedIcon)
-    
+
     document.querySelectorAll('[data-bs-theme-value]').forEach(el => el.classList.remove('active'))
-    document.querySelector(`[data-bs-theme-value="${theme}"]`).classList.add('active')
+    document.querySelector(`[data-bs-theme-value="${theme}"]`)?.classList.add('active')
   }
 
   document.querySelectorAll('[data-bs-theme-value]').forEach(toggle => {
