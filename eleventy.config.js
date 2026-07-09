@@ -67,8 +67,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "public/docs": "docs" });
   eleventyConfig.addPassthroughCopy({ "public/admin": "admin" });
   eleventyConfig.addPassthroughCopy({ "public/_headers": "_headers" });
-  eleventyConfig.addPassthroughCopy({ "public/images": "images" });
-  eleventyConfig.addPassthroughCopy({ "node_modules/pagefind/pagefind-ui.*": "pagefind" });
+  // pagefind-ui.js/css come from the pagefind CLI bundle (_site/pagefind/) at build time.
 
   eleventyConfig.addWatchTarget("css/**/*.css");
 eleventyConfig.addCollection("contributor", function(collectionApi) {
