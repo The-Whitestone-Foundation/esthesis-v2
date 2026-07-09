@@ -8,7 +8,7 @@ layout: base.njk
         <div class="col-md-4 col-12 d-flex flex-column justify-content-center text-white col-centered p-3 p-md-5" 
              style="background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('{{ image or metadata.image }}'); background-size: cover; background-position: center; min-height: 50vh;">
             <div class="col-md-10 mx-auto">
-                <nav class="breadcrumbs small mb-3 text-uppercase opacity-75">
+                <nav class="breadcrumbs small mb-3 text-uppercase opacity-75" data-pagefind-ignore>
                     {%- for crumb in page.date | breadcrumbs(title, metadata) -%}
                         {% if crumb.url %}<a href="{{ crumb.url }}" class="text-white text-decoration-none">{{ crumb.text }}</a>{% else %}<span>{{ crumb.text }}</span>{% endif %}
                         {%- if not loop.last %} / {% endif -%}
@@ -22,14 +22,14 @@ layout: base.njk
         </div>
 
         <div class="col-md-8 p-3 p-md-5 col-scrollable e-content">
-            <div class="mb-5">
+            <div class="mb-5" data-pagefind-ignore>
                 <a href="/archive/" class="text-body-secondary text-decoration-none"><i class="fas fa-arrow-left me-2"></i> Back</a>
             </div>
 
             {% set contentWithIDs = content | addHeadingIDs %}
             {% set tocHtml = contentWithIDs | toc %}
             {% if contentWithIDs | hasTocEntries %}
-            <div class="mb-5 tocus p-4 border-start border-4 border-dark bg-body-tertiary">
+            <div class="mb-5 tocus p-4 border-start border-4 border-dark bg-body-tertiary" data-pagefind-ignore>
                 <h3 class="fw-bold h5 text-uppercase">Table of Contents</h3>
                 {{ tocHtml | safe }} 
             </div>
@@ -53,7 +53,7 @@ layout: base.njk
                 {% endif %}
             </div>
 
-            <div class="row mt-5 pt-4">
+            <div class="row mt-5 pt-4" data-pagefind-ignore>
                 {% set previousPost = collections.posts | getPreviousCollectionItem(page) %}
                 {% set nextPost = collections.posts | getNextCollectionItem(page) %}
                 <div class="col-6">

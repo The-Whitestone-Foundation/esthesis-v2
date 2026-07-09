@@ -5,11 +5,13 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 {% include "partials/seo.njk" %}
+<link href="/pagefind/pagefind-component-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-component-ui.js" type="module"></script>
 </head>
 <body>
 <a href="#main" id="skip-link" class="visually-hidden">Skip to main content</a>
 {% include "partials/navbar.njk" %}
-<main id="main" class="h-entry">
+<main id="main" class="h-entry" data-pagefind-body>
 {{content|safe}}
 </main>
 <p class="h-card visually-hidden mb-0">

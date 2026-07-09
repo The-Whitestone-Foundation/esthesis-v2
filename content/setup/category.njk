@@ -23,7 +23,7 @@ permalink: "/categories/{{ category | slugify }}/"
                 </h2>
             </header>
 
-            <div class="row" data-pagefind-ignore>
+            <div class="row" data-pagefind-ignore="all">
                 {% set catPosts = collections.posts | filterByCategory(category) | reverse %}
 
                 {% for post in catPosts %}

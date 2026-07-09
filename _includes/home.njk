@@ -3,12 +3,13 @@ layout: base.njk
 ---
 {% include "partials/hero.njk" %}
 {% include "partials/nav.njk" %}
+<meta data-pagefind-meta="title[content]" content="{{ title or metadata.title }}">
 
 <section class="container-fluid h-entry">
     <div class="col-md-10 mx-auto">
         <div class="row mt-5">
             <div class="col-md-9 p-3 p-md-5 mt-3">
-                <div class="row justify-content-center e-content">
+                <div class="row justify-content-center e-content" data-pagefind-ignore="all">
                    {% for post in collections.posts | limit(12) %}
 <article class="col-md-6 p-3">
     <div class="img-post-list">

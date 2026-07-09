@@ -21,7 +21,7 @@ data-pagefind-meta="title" data-pagefind-weight="{{ pagefindTitleWeight }}"><a h
                 <p class="lead text-muted">Browse all posts organized by category.</p>
             </header>
 
-            <div class="category-wrapper" data-pagefind-ignore>
+            <div class="category-wrapper" data-pagefind-ignore="all">
                 {% set categoriesSorted = (collections.categories or []) | sort %}
 
                 {% for category in categoriesSorted %}

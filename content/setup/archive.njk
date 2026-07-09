@@ -16,7 +16,7 @@ permalink: "/archive/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber 
         <div class="row mt-5">
             <div class="col-md-9 p-3 p-md-5 mt-3 border-end">
                 <h1 class="mb-5 fw-bold text-uppercase" data-pagefind-meta="title" data-pagefind-weight="1">Archive</h1>
-                <div class="row justify-content-center">
+                <div class="row justify-content-center" data-pagefind-ignore="all">
                     {% for post in posts %}
                     <article class="col-md-4 p-3 mb-4">
                         <div class="img-post-list">
