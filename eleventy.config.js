@@ -66,6 +66,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "public/images": "images" });
   eleventyConfig.addPassthroughCopy({ "public/docs": "docs" });
   eleventyConfig.addPassthroughCopy({ "public/admin": "admin" });
+  eleventyConfig.addPassthroughCopy({ "public/_headers": "_headers" });
   eleventyConfig.addPassthroughCopy({ "public/images": "images" });
   eleventyConfig.addPassthroughCopy({ "node_modules/pagefind/pagefind-ui.*": "pagefind" });
 
