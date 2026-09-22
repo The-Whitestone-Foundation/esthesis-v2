@@ -78,6 +78,7 @@
 {% if isAcademic and (volume or issue) %}
 <meta property="zotero:itemType" content="journalArticle" />
 <meta name="citation_title" content="{{ title or metadata.title }}" />
+<meta name="citation_author" content="{{ author or authors or metadata.title }}" />
 <meta name="citation_journal_title" content="Esthesis" />
 {% if pageDate %}<meta name="citation_publication_date" content="{{ pageDate | isoDate }}" />{% endif %}
 <meta name="citation_fulltext_html_url" content="{{ canonicalHref }}" />
