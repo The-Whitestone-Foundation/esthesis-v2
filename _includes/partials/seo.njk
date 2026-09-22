@@ -78,13 +78,17 @@
 {% if isAcademic and (volume or issue) %}
 <meta property="zotero:itemType" content="journalArticle" />
 <meta name="citation_title" content="{{ title or metadata.title }}" />
-<meta name="citation_author" content="{{ author or authors or metadata.title }}" />
+{% if author %}<meta name="citation_author" content="{{ author }}" />{% endif %}
 <meta name="citation_journal_title" content="Esthesis" />
+<meta name="prism.publicationName" content="{{ metadata.title }}" />
 {% if pageDate %}<meta name="citation_publication_date" content="{{ pageDate | isoDate }}" />{% endif %}
 <meta name="citation_fulltext_html_url" content="{{ canonicalHref }}" />
 {% if volume %}<meta name="citation_volume" content="{{ volume }}" />{% endif %}
 {% if issue %}<meta name="citation_issue" content="{{ issue }}" />{% endif %}
-{% elif pageDate and page.url and page.url != "/" %}
+{% if abstract %}<meta name="citation_abstract" content="{{ abstract }}" />{% endif %}
+{% if doi %}<meta name="citation_doi" content="{{ doi }}" />{% endif %}
+{% if pdfUrl %}<meta name="citation_pdf_url" content="{{ pdfUrl }}" />{% endif %}
+{% elif pageDate and page.inputPath and "/posts/" in page.inputPath %}
 {% if page.inputPath and "/posts/" in page.inputPath %}
 <link rel="cite-as" href="{{ canonicalHref }}" />
 <link rel="type" href="https://schema.org/BlogPosting" />
@@ -95,10 +99,11 @@
 <meta name="prism.genre" content="blogentry" />
 <meta name="prism.publicationName" content="{{ metadata.title }}" />
 {# No citation_title: it makes Zotero's translator guess journalArticle. Title rides on og:title/dc:title. #}
-<meta name="citation_author" content="{{ author or authors or metadata.title }}" />
+{% if author %}<meta name="citation_author" content="{{ author }}" />{% endif %}
 <meta name="citation_publication_date" content="{{ pageDate | isoDate }}" />
 <meta name="citation_public_url" content="{{ canonicalHref }}" />
 <meta name="citation_language" content="{{ metadata.language or 'en' }}" />
+{% if abstract %}<meta name="citation_abstract" content="{{ abstract }}" />{% endif %}
 {% endif %}
 <meta content="{{ metadata.metasocial.twitter }}" name="twitter:site" />
 <meta content="index, follow" name="robots">
